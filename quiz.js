@@ -42,7 +42,7 @@ init();
 async function init() {
   try {
     elStatus.textContent = "Cargando preguntas…";
-    const res = await fetch(DATA_FILE, { cache: "no-store" });
+    const res = await fetch(`${DATA_FILE}?v=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`No se pudo cargar ${DATA_FILE} (HTTP ${res.status})`);
 
     const data = await res.json();
