@@ -1,5 +1,5 @@
 // Archivo JSON
-const DATA_FILE = "egoa_test.json";
+const DATA_FILE = "egoa_test_v2.json";
 
 let settings = {
   show_progress: true,
