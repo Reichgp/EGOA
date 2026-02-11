@@ -1,0 +1,2684 @@
+{
+  "settings": {
+    "show_progress": true,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "show_explanation": true
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "single_choice",
+      "question": "De conformidad con el artículo 68 de la Constitución Española, el Congreso electo deberá ser convocado:",
+      "options": [
+        "Dentro de los quince días siguientes a la celebración de las elecciones.",
+        "Dentro de los veinte días siguientes a la celebración de las elecciones.",
+        "Dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+        "Dentro de los treinta días siguientes a la celebración de las elecciones."
+      ],
+      "correct_answer": "Dentro de los veinticinco días siguientes a la celebración de las elecciones.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q2",
+      "type": "single_choice",
+      "question": "De conformidad con lo dispuesto en el artículo 59 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las unidades que no tengan la condición de órganos se crean, modifican y suprimen:",
+      "options": [
+        "Por Real Decreto del Consejo de Ministros.",
+        "Por Real Decreto del Presidente del Gobierno.",
+        "A través de las relaciones de puestos de trabajo.",
+        "Por Orden Ministerial."
+      ],
+      "correct_answer": "A través de las relaciones de puestos de trabajo.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q3",
+      "type": "single_choice",
+      "question": "¿Qué categoría tienen los Secretarios Generales en la Administración General del Estado, según lo dispuesto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público?:",
+      "options": [
+        "De Secretarios de Estado.",
+        "De Subsecretarios.",
+        "De Director General.",
+        "De Subdirector General."
+      ],
+      "correct_answer": "De Subsecretarios.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q4",
+      "type": "single_choice",
+      "question": "Según el artículo 95.1 de la Constitución Española, la celebración de un tratado internacional que contenga estipulaciones contrarias a la Constitución:",
+      "options": [
+        "Exigirá la previa revisión constitucional.",
+        "Exigirá su aprobación por Ley Orgánica.",
+        "Exigirá la aprobación del Tribunal Constitucional.",
+        "En ningún caso podrá celebrarse."
+      ],
+      "correct_answer": "Exigirá la previa revisión constitucional.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q5",
+      "type": "single_choice",
+      "question": "De acuerdo con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo de las Administraciones Públicas, ¿quién está obligado a relacionarse a través de medios electrónicos con las Administraciones públicas?:",
+      "options": [
+        "Los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con las Administraciones para la gestión de sus asuntos personales.",
+        "Las personas físicas.",
+        "Quienes representes a un interesado que no esté obligado a relacionarse electrónicamente con la Administración.",
+        "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional."
+      ],
+      "correct_answer": "Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, para los trámites y actuaciones que realicen con las Administraciones Públicas en ejercicio de dicha actividad profesional.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q6",
+      "type": "single_choice",
+      "question": "Según lo establecido en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no serán de aplicación las disposiciones de dicha Ley relativas a la preparación y adjudicación del contrato en:",
+      "options": [
+        "Los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 80.000 euros.",
+        "Los contratos menores de suministros y servicios de valor estimado inferior a 18.000 euros.",
+        "Los contratos de suministros de medicamentos con un valor estimado inferior a 40.000 euros.",
+        "Los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 30.000 euros."
+      ],
+      "correct_answer": "Los contratos relativos a la prestación de asistencia sanitaria en supuestos de urgencia y con un valor estimado inferior a 30.000 euros.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q7",
+      "type": "single_choice",
+      "question": "El artículo 134 de la Constitución Española de 1978 establece que el Gobierno deberá presentar los Presupuestos Generales del Estado:",
+      "options": [
+        "Ante las Cortes Generales al menos tres meses antes de la expiración de los del año anterior.",
+        "Ante el Congreso de los Diputados antes de que finalice el ejercicio presupuestario.",
+        "Ante los Presidentes de ambas Cámaras Legislativas antes de la expiración de los del año anterior.",
+        "Ante el Congreso de los Diputados al menos tres meses antes de la expiración de los del año anterior."
+      ],
+      "correct_answer": "Ante el Congreso de los Diputados al menos tres meses antes de la expiración de los del año anterior.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q8",
+      "type": "single_choice",
+      "question": "De conformidad con el artículo 10 del Real Decreto legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el personal funcionario interino será nombrado por exceso o acumulación de tareas por un plazo máximo de:",
+      "options": [
+        "Nueve meses, dentro de un periodo de dieciocho meses.",
+        "Tres años.",
+        "Durante el tiempo estrictamente necesario, hasta la cobertura de la plaza por un funcionario de carrera.",
+        "Nueve meses, prorrogables otros nueve meses."
+      ],
+      "correct_answer": "Nueve meses, dentro de un periodo de dieciocho meses.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q9",
+      "type": "single_choice",
+      "question": "Según el artículo 76 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el órgano colegiado responsable de la coordinación de las políticas y medidas adoptadas por los departamentos ministeriales con la finalidad de garantizar el derecho a la igualdad entre mujeres y hombres y promover su efectividad es:",
+      "options": [
+        "El Instituto de la Mujer y para la Igualdad de Oportunidades.",
+        "El Observatorio de la Igualdad de Oportunidades entre mujeres y hombres.",
+        "La Comisión Interministerial de Igualdad entre mujeres y hombres.",
+        "El Consejo de Participación de la Mujer."
+      ],
+      "correct_answer": "La Comisión Interministerial de Igualdad entre mujeres y hombres.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q10",
+      "type": "single_choice",
+      "question": "Según lo establecido en el Real Decreto 63/1995, de 20 de enero, sobre ordenación de prestaciones sanitarias del Sistema Nacional de Salud, las prestaciones sanitarias facilitadas directamente a las personas por el Sistema Nacional de Salud y financiadas con cargo a la Seguridad Social o fondos estatales adscritos a la sanidad son, señale la opción INCORRECTA:",
+      "options": [
+        "Prestaciones farmacéuticas.",
+        "Los tratamientos en balnearios y las curas de reposo.",
+        "Prestaciones complementarias.",
+        "Atención especializada."
+      ],
+      "correct_answer": "Los tratamientos en balnearios y las curas de reposo.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q11",
+      "type": "single_choice",
+      "question": "De conformidad con el artículo 8 ter de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, cuál de las siguientes prestaciones NO forma parte de la cartera común suplementaria del Sistema Nacional de Salud:",
+      "options": [
+        "Prestación farmacéutica.",
+        "Actividades asistenciales de prevención.",
+        "Prestación con productos dietéticos.",
+        "Prestación ortoprotésica."
+      ],
+      "correct_answer": "Actividades asistenciales de prevención.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q12",
+      "type": "single_choice",
+      "question": "De acuerdo con el artículo 41.2 de la Ley 33/2011, de 4 de octubre, General de Salud Pública, las administraciones sanitarias NO precisarán obtener el consentimiento de las personas afectadas para el tratamiento de datos personales, relacionados con su salud, así como su cesión a otras administraciones públicas sanitarias:",
+      "options": [
+        "Cuando el paciente esté inconsciente.",
+        "En cualquier caso.",
+        "Cuando dicho tratamiento sea necesario para la integridad del paciente.",
+        "Cuando ello sea estrictamente necesario para la tutela de la salud de la población."
+      ],
+      "correct_answer": "Cuando ello sea estrictamente necesario para la tutela de la salud de la población.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q13",
+      "type": "single_choice",
+      "question": "Según lo establecido en el artículo 17 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, ¿cuál es el tiempo mínimo que los centros sanitarios tienen la obligación de conservar la documentación clínica en condiciones que garanticen su correcto mantenimiento?:",
+      "options": [
+        "Dos años contados desde la fecha del alta de cada proceso asistencial.",
+        "Cinco años contados desde la fecha del alta de cada proceso asistencial.",
+        "Cuatro años contados desde la fecha del alta de cada proceso asistencial.",
+        "Tres años contados desde la fecha del alta de cada proceso asistencial."
+      ],
+      "correct_answer": "Cinco años contados desde la fecha del alta de cada proceso asistencial.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q14",
+      "type": "single_choice",
+      "question": "De conformidad con el artículo 1 de la Ley 14/2007, de 3 de julio, de Investigación biomédica, esta ley tiene por objeto regular, con pleno respeto a la dignidad e identidad humanas y a los derechos inherentes a la persona, la investigación biomédica y, en particular, señale la opción INCORRECTA:",
+      "options": [
+        "La donación y utilización de ovocitos, espermatozoides, preembriones, embriones y fetos humanos o de sus células, tejidos u órganos con fines de investigación biomédica y sus posibles aplicaciones clínicas.",
+        "Los biobancos.",
+        "El tratamiento de muestras sintéticas.",
+        "Las investigaciones relacionadas con la salud humana que impliquen procedimientos invasivos."
+      ],
+      "correct_answer": "El tratamiento de muestras sintéticas.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q15",
+      "type": "single_choice",
+      "question": "De conformidad con el artículo 8 del Real Decreto Legislativo 1/2007, de 16 de noviembre, por el que se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, ¿cuál de los siguientes NO es un derecho básico de los consumidores y usuarios?:",
+      "options": [
+        "La renuncia expresa a sus derechos como consumidor.",
+        "La indemnización de los daños y la reparación de los perjuicios sufridos.",
+        "La protección de sus legítimos intereses económicos y sociales; en particular frente a las prácticas comerciales desleales y la inclusión de cláusulas abusivas en los contratos.",
+        "La protección contra los riesgos que puedan afectar su salud o seguridad."
+      ],
+      "correct_answer": "La renuncia expresa a sus derechos como consumidor.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q16",
+      "type": "single_choice",
+      "question": "En relación con la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud (SNS), entre las funciones y actividades de la Alta Inspección del SNS NO se incluye:",
+      "options": [
+        "Comprobar que los fondos correspondientes a los servicios de salud de las comunidades autónomas son utilizados de acuerdo con los principios generales de esta ley.",
+        "Verificar la inexistencia de cualquier tipo de discriminación en los sistemas de administración y regímenes de prestación de los servicios sanitarios, así como de los sistemas o procedimientos de selección y provisión de sus puestos de trabajo.",
+        "Supervisar el destino y utilización de los fondos y subvenciones propios del Estado asignados a las comunidades autónomas que tengan un destino o finalidad determinada.",
+        "La inspección, evaluación y autorización de Centros, Servicios y Establecimientos Sanitarios."
+      ],
+      "correct_answer": "La inspección, evaluación y autorización de Centros, Servicios y Establecimientos Sanitarios.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q17",
+      "type": "single_choice",
+      "question": "Entre las líneas estratégicas que contiene el Plan de Acción de Atención Primaria y Comunitaria 2025-2027 del Marco Estratégico, NO se encuentra:",
+      "options": [
+        "Línea 1: Fidelización y Atracción del talento.",
+        "Línea 5: Gobernanza y Rendición de Cuentas.",
+        "Línea 7: Salud integral en el contexto de los cuidados paliativos.",
+        "Línea 8: Accesibilidad."
+      ],
+      "correct_answer": "Línea 7: Salud integral en el contexto de los cuidados paliativos.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q18",
+      "type": "single_choice",
+      "question": "En relación con la notificación de las enfermedades transmisibles y la respuesta de Salud Pública ante la notificación de un brote, señale la respuesta INCORRECTA:",
+      "options": [
+        "Se dice que un brote epidémico se produce cuando la incidencia se eleva por encima de la que se prevé normalmente.",
+        "En el control del brote se incluye la formulación de hipótesis sobre la fuente y diseminación del brote epidémico notificado.",
+        "La definición de caso objeto de vigilancia en un brote epidémico siempre se corresponde con la definición de caso clínico.",
+        "El Reglamento Sanitario Internacional 2005 (RSI-2005) es el único instrumento legalmente vinculante que obliga a la notificación internacional de enfermedades transmisibles."
+      ],
+      "correct_answer": "La definición de caso objeto de vigilancia en un brote epidémico siempre se corresponde con la definición de caso clínico.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q19",
+      "type": "single_choice",
+      "question": "¿Cuál de las siguientes consideraciones del último calendario común de vacunación infantil aprobado por el Consejo Interterritorial del Sistema Nacional de Salud es INCORRECTA?:",
+      "options": [
+        "La vacuna VPH (Papilomavirus) está indicada en niños y niñas.",
+        "En personas que refieran no haber pasado la varicela ni haber sido vacunadas con anterioridad, está indicada la pauta con 2 dosis.",
+        "En VHB (Hepatitis B), se vacunará con pauta 0, 2, 4 y 11 meses a los hijos/as de madres con AgHBs positivo. Se administrará la primera dosis a partir de las 72 horas de vida junto con la administración de inmunoglobulina anti-HB.",
+        "Con la vacuna VPH (Papilomavirus), si se inicia la vacunación a partir de los 12 años, se administrará 1 dosis."
+      ],
+      "correct_answer": "En VHB (Hepatitis B), se vacunará con pauta 0, 2, 4 y 11 meses a los hijos/as de madres con AgHBs positivo. Se administrará la primera dosis a partir de las 72 horas de vida junto con la administración de inmunoglobulina anti-HB.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q20",
+      "type": "single_choice",
+      "question": "En el calendario común de vacunación a lo largo de toda la vida vigente y aprobado por el Consejo Interterritorial del Sistema Nacional de Salud en el año 2019, se incluyó la siguiente modificación:",
+      "options": [
+        "La inclusión de la vacuna de la Hepatitis A a toda la población infantil.",
+        "La inclusión de la vacuna frente al rotavirus a toda la población infantil.",
+        "La inclusión de la vacuna frente a la meningitis meningocócica tetravalente A, C, W, Y que se administrará 1 dosis en las personas no vacunadas después de los 10 años.",
+        "La inclusión de la vacuna frente a la enfermedad meningocócica invasora frente al serogrupo B a toda la población infantil."
+      ],
+      "correct_answer": "La inclusión de la vacuna frente a la meningitis meningocócica tetravalente A, C, W, Y que se administrará 1 dosis en las personas no vacunadas después de los 10 años.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q21",
+      "type": "single_choice",
+      "question": "Entre las contraindicaciones de las vacunas y la seguridad de éstas, señale la respuesta INCORRECTA:",
+      "options": [
+        "Los niños con niveles de linfocitos CD4+ superiores al 15 % pueden recibir la vacuna triple vírica y la de la varicela.",
+        "La presencia de una encefalopatía de etiología desconocida aparecida en los 7 días siguientes a la administración de una vacuna con componente frente a la tosferina contraindica la administración de dosis posteriores de vacunas que contengan dicho componente.",
+        "La inmunodeficiencia combinada grave (IDCG) y los antecedentes de invaginación intestinal son contraindicaciones para recibir vacunas contra el rotavirus.",
+        "Una reacción alérgica anafiláctica a una dosis previa de una vacuna o a algún componente de ésta es una contraindicación permanente para volver a administrar dicha vacuna o cualquier otra vacuna que contenga dicho componente."
+      ],
+      "correct_answer": "Los niños con niveles de linfocitos CD4+ superiores al 15 % pueden recibir la vacuna triple vírica y la de la varicela.",
+      "explanation": "La opción correcta es “Los niños con niveles de linfocitos CD4+ superiores al 15 % pueden recibir la vacuna triple vírica y la de la varicela.” porque es la que describe de forma adecuada el concepto preguntado y descarta las alternativas que no se ajustan a la definición o al procedimiento estándar."
+    },
+    {
+      "id": "q22",
+      "type": "single_choice",
+      "question": "En relación con el Certificado Internacional de Vacunación o Profilaxis señale la respuesta INCORRECTA:",
+      "options": [
+        "Los certificados que se expidan conforme a lo dispuesto en el Anexo 6 sólo serán válidos si la vacuna o el tratamiento profiláctico han sido aprobados por la OMS.",
+        "El clínico que considere contraindicada una vacunación facilitará una declaración de los motivos de exención, escrita en francés o en inglés y, si procede, en otro idioma; tomando las autoridades competentes en consideración esa declaración.",
+        "No se denegará la entrada a los viajeros en posesión de un certificado de vacunación como consecuencia de la enfermedad a la que se refiera el certificado incluso cuando procedan de una zona afectada.",
+        "La normativa internacional vinculante de la que deriva el Certificado Internacional de Vacunación o Profilaxis es la Directiva 2011/24/UE del Parlamento Europeo y del Consejo relativa a la aplicación de los derechos de los pacientes en la asistencia sanitaria transfronteriza."
+      ],
+      "correct_answer": "La normativa internacional vinculante de la que deriva el Certificado Internacional de Vacunación o Profilaxis es la Directiva 2011/24/UE del Parlamento Europeo y del Consejo relativa a la aplicación de los derechos de los pacientes en la asistencia sanitaria transfronteriza.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q23",
+      "type": "single_choice",
+      "question": "¿En qué legislación NO se recoge que el control y vigilancia higiénico-sanitaria en el tráfico internacional de personas/viajeros es competencia exclusiva del Estado?:",
+      "options": [
+        "En el Reglamento Sanitario Internacional de 2005 (RSI-2005).",
+        "Ley 14/1986, de 25 de abril, General de Sanidad.",
+        "Ley 33/2011, de 4 de octubre, General de Salud Pública.",
+        "Real Decreto 1418/1986, de 13 de junio, sobre funciones del Ministerio de Sanidad y Consumo en materia de sanidad exterior."
+      ],
+      "correct_answer": "En el Reglamento Sanitario Internacional de 2005 (RSI-2005).",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q24",
+      "type": "single_choice",
+      "question": "En relación con las enfermedades de transmisión hídrica y alimentaria, señale la respuesta CORRECTA:",
+      "options": [
+        "Los parásitos intestinales (nematodos) Ascaris lumbricoides y Trichuris trichiura se transmiten a partir de aguas estancadas y contaminadas.",
+        "Los protozoos son los responsables de la mayoría de los casos de la “diarrea del viajero”.",
+        "El problema sanitario más común con el que se encuentra el viajero es la “giardiasis” y, dependiendo de la duración de la estancia, puede afectar a más del 80% de los viajeros a destinos de alto riesgo.",
+        "El uso profiláctico de antibióticos para prevenir la “diarrea del viajero”, puede utilizarse en viajeros con una susceptibilidad aumentada para padecer infecciones (hipoclorhidria o patología del intestino delgado), así como en personas en misiones especiales."
+      ],
+      "correct_answer": "El uso profiláctico de antibióticos para prevenir la “diarrea del viajero”, puede utilizarse en viajeros con una susceptibilidad aumentada para padecer infecciones (hipoclorhidria o patología del intestino delgado), así como en personas en misiones especiales.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q25",
+      "type": "single_choice",
+      "question": "Entre las principales estrategias de prevención de la transmisión de enfermedades respiratorias NO se encuentra:",
+      "options": [
+        "Inmunizaciones.",
+        "Medidas para mejorar la calidad del aire.",
+        "Precauciones para evitar la propagación.",
+        "Utilización de Antivirales."
+      ],
+      "correct_answer": "Utilización de Antivirales.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q26",
+      "type": "single_choice",
+      "question": "Señale la afirmación CORRECTA:",
+      "options": [
+        "La inmunidad pasiva consiste en la adquisición de inmunidad mediante la administración de inmunoglobulinas procedentes de un huésped (humano o animal) con el fin de proporcionar una protección inmunológica de forma inmediata, pero de corta duración.",
+        "La inmunización activa consiste en la adquisición de inmunidad mediante la administración de inmunoglobulinas procedentes de un huésped (humano o animal) con el fin de proporcionar una protección inmunológica de forma inmediata, pero de corta duración.",
+        "La inmunidad pasiva consiste en la adquisición de inmunidad mediante la administración de inmunoglobulinas procedentes de un huésped (humano o animal) con el fin de proporcionar una protección inmunológica de forma retardada, pero de larga duración.",
+        "La inmunidad pasiva consiste en la adquisición de inmunidad mediante la administración de inmunoglobulinas procedentes de un huésped (humano o animal) con el fin de proporcionar una protección inmunológica de forma inmediata, pero de larga duración."
+      ],
+      "correct_answer": "La inmunidad pasiva consiste en la adquisición de inmunidad mediante la administración de inmunoglobulinas procedentes de un huésped (humano o animal) con el fin de proporcionar una protección inmunológica de forma inmediata, pero de corta duración.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q27",
+      "type": "single_choice",
+      "question": "Entre las recomendaciones de vacunación frente a MPX (viruela del mono) en personas que realizan viajes internacionales a las zonas afectadas NO se encuentran:",
+      "options": [
+        "Personas que mantienen o puedan llegar a mantener prácticas sexuales de riesgo.",
+        "Personas que vayan a tener contacto estrecho y directo con población local del país tercero que pudiera estar infectada.",
+        "Personas que tengan previsto mantener un contacto estrecho y directo con animales, especialmente con la fauna salvaje (por ejemplo, veterinarios, cazadores, etc.).",
+        "Personal que se encarga de la desinfección de superficies siempre que no se pueda garantizar el uso adecuado de elementos de protección individual."
+      ],
+      "correct_answer": "Personal que se encarga de la desinfección de superficies siempre que no se pueda garantizar el uso adecuado de elementos de protección individual.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q28",
+      "type": "single_choice",
+      "question": "En relación con las enfermedades transmitidas por vectores, señale la opción INCORRECTA:",
+      "options": [
+        "El dengue es transmitido principalmente por el mosquito Aedes aegypti, que pica durante las horas diurnas.",
+        "La peste es una enfermedad zoonótica que afecta a roedores que se transmite a otros animales y al hombre por la picadura de pulgas infectadas.",
+        "En la encefalitis japonesa, los mamíferos, principalmente cánidos, representan el reservorio natural de este virus, que se transmite a nuevos huéspedes animales y ocasionalmente a seres humanos por garrapatas.",
+        "El Chikungunya es una infección viral que es transmitida por mosquitos. Dos importantes vectores son Aedes aegypti y Aedes albopictus."
+      ],
+      "correct_answer": "En la encefalitis japonesa, los mamíferos, principalmente cánidos, representan el reservorio natural de este virus, que se transmite a nuevos huéspedes animales y ocasionalmente a seres humanos por garrapatas.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q29",
+      "type": "single_choice",
+      "question": "Con relación a las zoonosis, señale la opción CORRECTA:",
+      "options": [
+        "El mecanismo de transmisión de la leptospirosis es la ingesta de pescado crudo.",
+        "El mecanismo principal de transmisión de la leishmaniasis es la mordedura de perros.",
+        "El mecanismo principal de transmisión del carbunco es la ingesta de huevos contaminados con heces.",
+        "El mecanismo principal de transmisión de la brucelosis es la ingesta de leche cruda."
+      ],
+      "correct_answer": "El mecanismo principal de transmisión de la brucelosis es la ingesta de leche cruda.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q30",
+      "type": "single_choice",
+      "question": "Las enfermedades recogidas en el listado de ITS (infecciones de transmisión sexual) a vigilar en la RENAVE desde la modificación realizada en 2015 son las siguientes:",
+      "options": [
+        "Sífilis e infección gonocócica.",
+        "Chlamydia trachomatis, sífilis e infección gonocócica.",
+        "Sífilis, sífilis congénita, infección gonocócica, chlamydia trachomatis y linfogranuloma venéreo.",
+        "VIH, hepatitis B, sífilis e infección gonocócica."
+      ],
+      "correct_answer": "Sífilis, sífilis congénita, infección gonocócica, chlamydia trachomatis y linfogranuloma venéreo.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q31",
+      "type": "single_choice",
+      "question": "Según el Reglamento Sanitario Internacional 2005 (RSI-2005), un Estado podrá exigir un examen médico, la vacunación u otras medidas profilácticas, o certificado de vacunación o prueba de la aplicación de otras medidas profilácticas, en los casos siguientes: (Señale la respuesta INCORRECTA)",
+      "options": [
+        "Cuando sea necesario para determinar si existe un riesgo para la salud pública.",
+        "Como condición para la entrada de viajeros que pretenden solicitar una residencia temporal o permanente.",
+        "Cuando un viajero procede de zonas de riesgo del Paludismo y entra en otro país en el que el vector transmisor del Paludismo está presente.",
+        "Cuando el viajero presente un Certificado Internacional de Vacunación con vacunación de Fiebre Amarilla registrada en el Certificado 9 días antes de su llegada al Estado de destino."
+      ],
+      "correct_answer": "Cuando un viajero procede de zonas de riesgo del Paludismo y entra en otro país en el que el vector transmisor del Paludismo está presente.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q32",
+      "type": "single_choice",
+      "question": "Según se recoge en el Anexo 5 del Reglamento Sanitario Internacional 2005 (RSI-2005) los Estados Partes elaborarán programas para controlar los vectores capaces de transportar agentes infecciosos que supongan un riesgo para la salud pública hasta una distancia mínima de las zonas de las instalaciones de los puntos de entrada utilizadas para operaciones en las que intervienen viajeros, medios de transporte, contenedores, cargas y paquetes postales, que podrá ampliarse en presencia de vectores con un área de distribución mayor. ¿Cuál es esta distancia?:",
+      "options": [
+        "1.000 metros.",
+        "600 metros.",
+        "400 metros.",
+        "2.000 metros."
+      ],
+      "correct_answer": "400 metros.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q33",
+      "type": "single_choice",
+      "question": "De acuerdo con el artículo 37 del Reglamento Sanitario Internacional 2005 (RSI-2005), antes de la llegada al primer puerto de escala en el territorio de un Estado Parte, señale la opción INCORRECTA:",
+      "options": [
+        "El personal de enfermería de una embarcación averiguará cuál es el estado de salud a bordo.",
+        "Salvo en los casos en que ese Estado Parte no lo exija, el capitán cumplimentará y entregará a su llegada, o antes de la llegada si la embarcación está equipada a ese efecto y el Estado Parte exige la entrega por adelantado, una Declaración Marítima de Sanidad.",
+        "La Declaración Marítima de Sanidad será refrendada por el médico de a bordo si lo hubiere y entregada a la autoridad competente del citado puerto.",
+        "La Declaración Marítima de Sanidad se ajustará al modelo del anexo 8."
+      ],
+      "correct_answer": "El personal de enfermería de una embarcación averiguará cuál es el estado de salud a bordo.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q34",
+      "type": "single_choice",
+      "question": "En relación con los Certificados de Sanidad a Bordo (Certificado de Control de Sanidad a Bordo/Certificado de Exención de Control de Sanidad a Bordo), señale la opción INCORRECTA:",
+      "options": [
+        "Son especialmente importantes para prevenir y controlar los riesgos para la salud pública a bordo de buques en viajes internacionales.",
+        "La solicitud de inspección deberá dirigirse al Servicio de Salud de la provincia donde vaya a realizarse dicha inspección previa, que será la que emita el Certificado correspondiente.",
+        "Los barcos que necesiten obtener el certificado pueden dirigirse a los puertos autorizados para la expedición de los Certificados de Sanidad a Bordo en nuestro país.",
+        "El Certificado de Sanidad a Bordo tiene una validez máxima de 6 meses que podrá prorrogarse 1 mes si la inspección o las medidas de control exigidas no pueden realizarse en el puerto donde es solicitado y no hay pruebas de infección o contaminación."
+      ],
+      "correct_answer": "La solicitud de inspección deberá dirigirse al Servicio de Salud de la provincia donde vaya a realizarse dicha inspección previa, que será la que emita el Certificado correspondiente.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q35",
+      "type": "single_choice",
+      "question": "Para determinar si un evento constituye una emergencia de salud pública de importancia internacional, el Director General de la OMS NO considerará:",
+      "options": [
+        "La información proporcionada por el Estado Parte en cuyo territorio se esté produciendo el evento de salud pública de importancia internacional.",
+        "La opinión del Comité de Examen.",
+        "Los principios científicos, así como las pruebas científicas disponibles y otras informaciones pertinentes.",
+        "Una evaluación del riesgo para la salud humana, del riesgo de propagación internacional de la enfermedad y del riesgo de trabas para el tráfico internacional."
+      ],
+      "correct_answer": "La opinión del Comité de Examen.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q36",
+      "type": "single_choice",
+      "question": "En aplicación del Reglamento Sanitario Internacional 2005 (RSI-2005) los puntos de entrada designados tendrán en todo momento capacidad para: (Señale la opción INCORRECTA)",
+      "options": [
+        "Ofrecer acceso a un servicio médico apropiado, incluidos medios de diagnóstico situados de manera tal que permitan la evaluación y atención no inmediata de los viajeros enfermos, y a personal, equipo e instalaciones adecuados.",
+        "Ofrecer acceso a equipo y personal para el transporte de los viajeros enfermos a una dependencia médica apropiada.",
+        "Facilitar personal capacitado para la inspección de los medios de transporte.",
+        "Disponer en lo posible de un programa y de personal capacitado para el control de vectores y reservorios en los puntos de entrada y sus cercanías."
+      ],
+      "correct_answer": "Ofrecer acceso a un servicio médico apropiado, incluidos medios de diagnóstico situados de manera tal que permitan la evaluación y atención no inmediata de los viajeros enfermos, y a personal, equipo e instalaciones adecuados.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q37",
+      "type": "single_choice",
+      "question": "Dentro de los controles higiénico-sanitarios en los Puntos de entrada, la Operación Paso del Estrecho (OPE) se desarrolla todos los años entre el 15 de junio y el 15 de septiembre, para facilitar el viaje de gran número de personas residentes en Europa que aprovechan sus vacaciones para visitar sus países de origen en el norte de África. Señale la opción INCORRECTA:",
+      "options": [
+        "Sanidad Exterior participa en la OPE garantizando que las instalaciones de los puertos involucrados y de los buques implicados disponen de unas condiciones higiénico-sanitarias adecuadas.",
+        "Responde ante los eventos sanitarios que pudieran suponer un riesgo para la salud pública, coordinando las actuaciones de los Organismos y Entidades competentes en la respuesta.",
+        "Se dispone de Servicios de Sanidad Exterior adscritos a las Áreas y Dependencias de Sanidad de las Delegaciones y Subdelegaciones del Gobierno que se encuentran ubicados en los puertos participantes y que están formados por personal sanitario cualificado para el desarrollo de este tipo de actividades.",
+        "Se trata de una actividad coordinada por el Ministerio de Defensa que incluye actuaciones de diversos organismos e instituciones de la Administración General del Estado (entre ellos, Sanidad Exterior)."
+      ],
+      "correct_answer": "Se trata de una actividad coordinada por el Ministerio de Defensa que incluye actuaciones de diversos organismos e instituciones de la Administración General del Estado (entre ellos, Sanidad Exterior).",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q38",
+      "type": "single_choice",
+      "question": "El Acuerdo de Estrasburgo entró en vigor de forma general el 11 de noviembre de 1975 y en España entró en vigor el 19 de abril de 1992, de conformidad con lo establecido en el artículo 11 del mismo, se establece que:",
+      "options": [
+        "Los aspectos relacionados con la sanidad mortuoria y con el traslado internacional de cadáveres, entran dentro del marco competencial de las Comunidades Autónomas.",
+        "El presente Acuerdo se aplicará al transporte internacional de cenizas.",
+        "Todo cadáver habrá de ir provisto, durante el traslado, de un documento especial denominado salvoconducto mortuorio, expedido por la autoridad competente del Estado de partida.",
+        "El salvoconducto deberá contener, al menos, los datos siguientes: apellidos y nombre de la persona fallecida, lugar y fecha de fallecimiento, estado civil y profesión."
+      ],
+      "correct_answer": "Todo cadáver habrá de ir provisto, durante el traslado, de un documento especial denominado salvoconducto mortuorio, expedido por la autoridad competente del Estado de partida.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q39",
+      "type": "single_choice",
+      "question": "El mal de altura se produce cuando el estrés hipóxico supera a la aclimatación, esto es debido a que la presión barométrica disminuye al aumentar la altitud, lo que reduce la presión parcial de oxígeno y causa hipoxia. Respecto del mal de altura señale la respuesta CORRECTA:",
+      "options": [
+        "El proceso de aclimatación comienza al alcanzarse los 4.500 metros de altitud.",
+        "Se caracteriza por el aumento de agudeza visual, somnolencia, pérdida auditiva, aumento del apetito, y movimientos tónico-clónicos.",
+        "Una profilaxis eficaz para el mal de altura es utilizar una dosis total diaria de 5 mg/kg de vitamina B12 distribuida en varias dosis y reducir la ingesta de agua.",
+        "Los viajeros no acostumbrados a grandes altitudes deberán evitar esfuerzos excesivos y el consumo de alcohol durante las 24 primeras horas a estas altitudes."
+      ],
+      "correct_answer": "Los viajeros no acostumbrados a grandes altitudes deberán evitar esfuerzos excesivos y el consumo de alcohol durante las 24 primeras horas a estas altitudes.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q40",
+      "type": "single_choice",
+      "question": "Los vectores juegan un papel esencial en la transmisión de muchas enfermedades infecciosas. Muchos vectores son insectos hematófagos que ingieren el microorganismo causante de la enfermedad mientras se alimentan de la sangre de un huésped infectado (humano o animal) y posteriormente lo inyectan en un nuevo huésped en el momento de la picadura. Señale la respuesta CORRECTA:",
+      "options": [
+        "Las garrapatas y ciertos caracoles acuáticos participan en el ciclo terapéutico de enfermedades.",
+        "El agua representa un papel fundamental en el ciclo vital de la mayoría de los vectores.",
+        "Los viajeros suelen tener más riesgo de exposición a enfermedades transmitidas por vectores en los centros urbanos, especialmente si duermen en habitaciones con aire acondicionado.",
+        "La densidad de la malla de las pantallas protectoras de las tiendas de campaña suele ser mayor de 5 mm, por lo que no se recomienda poner una red especial para mosquitos."
+      ],
+      "correct_answer": "El agua representa un papel fundamental en el ciclo vital de la mayoría de los vectores.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q41",
+      "type": "single_choice",
+      "question": "El Paludismo o Malaria es una enfermedad muy extendida que afecta a prácticamente todos los países tropicales. Dado que esta enfermedad puede resultar grave, e incluso mortal, es importante hacer una prevención de la misma. Señale la respuesta CORRECTA:",
+      "options": [
+        "Se transmite a través de la picadura de un mosquito del género Culex.",
+        "Protegerse contra la picadura de los mosquitos constituye la segunda línea de defensa contra el Paludismo.",
+        "Tomar quimioprofilaxis contra el Paludismo está contraindicada en el embarazo.",
+        "Consultar inmediatamente con el médico en caso de que aparezca fiebre a partir de 1 semana después de haber entrado en un área donde hay riesgo de Paludismo y hasta 3 meses después de salir de ella."
+      ],
+      "correct_answer": "Consultar inmediatamente con el médico en caso de que aparezca fiebre a partir de 1 semana después de haber entrado en un área donde hay riesgo de Paludismo y hasta 3 meses después de salir de ella.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q42",
+      "type": "single_choice",
+      "question": "El cólera es una enfermedad diarreica aguda que puede causar la muerte en cuestión de horas si no se trata. En relación con esta enfermedad señale la respuesta INCORRECTA:",
+      "options": [
+        "Los biotipos El Tor y clásico de V. cholerae O1 pueden causar un cuadro grave. Sin embargo, las infecciones leves o asintomáticas son mucho más comunes con el biotipo El Tor predominante o con los serogrupos no-O1 y no-O139 de V. cholerae.",
+        "El microorganismo causal, V. cholerae, serogrupos O1 y O139, es un bacilo grampositivo, inmóvil y anaeróbico.",
+        "Los síntomas iniciales del cólera son una diarrea abrupta, indolora y acuosa, y vómitos. Hay una ausencia típica de náuseas. A menudo, las deposiciones consisten en un líquido blanco carente de materia fecal (heces en agua de arroz).",
+        "El diagnóstico del cólera se confirma mediante el cultivo de muestras de materia fecal (se recomienda el uso de medios selectivos) más serogrouping/subtipo posterior."
+      ],
+      "correct_answer": "El microorganismo causal, V. cholerae, serogrupos O1 y O139, es un bacilo grampositivo, inmóvil y anaeróbico.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q43",
+      "type": "single_choice",
+      "question": "Considerando el ciclo y la transmisión del virus de Chikungunya, señale la respuesta INCORRECTA:",
+      "options": [
+        "El virus se perpetúa en un ciclo reservorio-mosquito-reservorio.",
+        "El reservorio es humano en períodos epidémicos. Fuera de estos períodos, los primates no humanos y algunos otros animales salvajes actúan como reservorio.",
+        "El virus de Chikungunya pertenece al género Alphavirus, de la familia Togaviridae.",
+        "No se ha constatado transmisión del virus entre humanos mediante trasplante de tejidos y órganos."
+      ],
+      "correct_answer": "No se ha constatado transmisión del virus entre humanos mediante trasplante de tejidos y órganos.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q44",
+      "type": "single_choice",
+      "question": "En cuanto a la enfermedad por virus Zika es INCORRECTO que:",
+      "options": [
+        "La vacuna para virus Zika es muy eficaz para evitar complicaciones de la enfermedad.",
+        "El ciclo para virus Zika es similar al del virus del Dengue y virus Chikungunya, con un período de incubación extrínseco, que dura 8-10 días, aunque puede variar según la temperatura.",
+        "El virus Zika se descubrió en 1947 en monos Rhesus en el bosque Zika en Uganda y, en humanos, en 1952.",
+        "En cuanto al ciclo de virus Zika existe en la naturaleza un ciclo selvático, en el que los primates no humanos actúan como reservorio, y otro urbano, entre humanos y mosquitos."
+      ],
+      "correct_answer": "La vacuna para virus Zika es muy eficaz para evitar complicaciones de la enfermedad.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q45",
+      "type": "single_choice",
+      "question": "De las siguientes afirmaciones, en relación con la diarrea del viajero, señale la INCORRECTA:",
+      "options": [
+        "Entre algunos de los síntomas más frecuentes de la diarrea del viajero se encuentran los calambres estomacales y las náuseas.",
+        "Las personas que toman bloqueadores de ácidos o antiácidos tienen un mayor riesgo de desarrollar diarrea del viajero.",
+        "El subsalicilato de bismuto se recomienda para el tratamiento de la diarrea del viajero en niños, personas embarazadas o personas alérgicas a la aspirina.",
+        "Determinados grupos de personas tienen un mayor riesgo de desarrollar diarrea del viajero; un sistema inmunitario debilitado debido a una enfermedad subyacente o a medicamentos inmunodepresores, aumenta el riesgo."
+      ],
+      "correct_answer": "El subsalicilato de bismuto se recomienda para el tratamiento de la diarrea del viajero en niños, personas embarazadas o personas alérgicas a la aspirina.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q46",
+      "type": "single_choice",
+      "question": "Señale la respuesta INCORRECTA considerando los agentes etiológicos en la diarrea del viajero:",
+      "options": [
+        "La bacteria Escherichia coli (E. coli) es el organismo más propenso a causar diarrea del viajero, en especial los tipos de E. coli que producen ciertas toxinas.",
+        "Hasta el 80-90% de los casos de diarrea del viajero se asocian a etiología bacteriana. Los parásitos (Giardia lamblia) son etiologías menos frecuentes.",
+        "La diarrea del viajero está causada por bacterias y/o parásitos, nunca por virus.",
+        "La Escherichia coli (E. coli) enteroagregativa es más común en los países con rentas bajas y medias y puede ser una causa de diarrea del viajero."
+      ],
+      "correct_answer": "La diarrea del viajero está causada por bacterias y/o parásitos, nunca por virus.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q47",
+      "type": "single_choice",
+      "question": "De las siguientes afirmaciones sobre la difteria, señale la INCORRECTA:",
+      "options": [
+        "El calendario común de vacunación e inmunización a lo largo de toda la vida (Calendario recomendado año 2025) aprobado por el Consejo Interterritorial del Sistema Nacional de Salud el 16 de diciembre de 2024 incluye la siguiente recomendación: Prenatal dTpa (difteria- Tétanos-tos ferina acelular), se administrará 1 dosis de dTpa en cada embarazo a partir de la 27 semana de gestación, pero preferentemente en las semanas 27 o 28.",
+        "La enfermedad no es muy contagiosa, por tanto, es recomendable que los trabajadores con una infección activa continúen su actividad incluso durante el periodo contagioso.",
+        "La difteria se produce por la bacteria Corynebacterium diphtheriae.",
+        "La toxina de la difteria puede diseminarse hacia el torrente sanguíneo y dañar tejidos. No tratada, la difteria puede derivar en complicaciones como la inflamación del músculo cardíaco (miocarditis)."
+      ],
+      "correct_answer": "La enfermedad no es muy contagiosa, por tanto, es recomendable que los trabajadores con una infección activa continúen su actividad incluso durante el periodo contagioso.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q48",
+      "type": "single_choice",
+      "question": "La tos ferina es una enfermedad infecciosa aguda sumamente contagiosa de las vías respiratorias altas, señale la respuesta CORRECTA en relación con esta enfermedad:",
+      "options": [
+        "El agente causal de la tos ferina es el Clostridioides difficile.",
+        "Los síntomas clásicos de la tos ferina son tos (paroxística), estridor inspiratorio y síncope o vómitos después de toser.",
+        "No existe estrategia preventiva eficaz para proteger frente a la tos ferina.",
+        "El tratamiento fundamental excluye la toma de antibióticos."
+      ],
+      "correct_answer": "Los síntomas clásicos de la tos ferina son tos (paroxística), estridor inspiratorio y síncope o vómitos después de toser.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q49",
+      "type": "single_choice",
+      "question": "En relación con la encefalitis centroeuropea señale la respuesta CORRECTA:",
+      "options": [
+        "La enfermedad, después de un periodo de incubación de 2 meses, se presenta en 2 fases.",
+        "La encefalitis centroeuropea es una infección del sistema nervioso central causada por un virus trasmitido por la mordedura de una garrapata (Ixodes ricinus) infectada.",
+        "Se debe iniciar la vacunación, al menos, 2 días antes del viaje, para los viajeros a zonas de riesgo, que vayan a permanecer un tiempo y practicar actividades al aire libre (camping, senderismo, etc.).",
+        "Las vacunas contra la encefalitis centroeuropea son vacunas vivas atenuadas."
+      ],
+      "correct_answer": "La encefalitis centroeuropea es una infección del sistema nervioso central causada por un virus trasmitido por la mordedura de una garrapata (Ixodes ricinus) infectada.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q50",
+      "type": "single_choice",
+      "question": "En relación con la vacunación de la encefalitis japonesa señale la respuesta INCORRECTA:",
+      "options": [
+        "La vacunación frente a esta enfermedad es la medida preventiva más eficaz.",
+        "En España se dispone de una vacuna inactivada frente a la enfermedad, que se llama Ixiaro.",
+        "Los mayores de 65 años siempre deben recibir la pauta rápida de vacunación.",
+        "Para adultos (mayores de 18 años), son necesarias 2 dosis, los días 0, 28 días después de la primera por vía intramuscular, más un recuerdo entre 12 y 24 meses después de la segunda dosis, en caso de riesgo de exposición continuado."
+      ],
+      "correct_answer": "Los mayores de 65 años siempre deben recibir la pauta rápida de vacunación.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q51",
+      "type": "single_choice",
+      "question": "En relación con el virus de la rabia señale la respuesta INCORRECTA:",
+      "options": [
+        "El virus no penetra en la piel intacta por lo que es necesario una herida o laceración para su inóculo.",
+        "Los cánidos son los mamíferos más susceptibles al virus de la rabia clásico (RABV).",
+        "Los Lyssavirus son muy resistentes y sobreviven largos periodos de tiempo fuera del hospedador.",
+        "El período de incubación de la enfermedad es, en general, de tres a ocho semanas, pero puede ser muy variable en función de otros factores como la gravedad o la ubicación de la herida."
+      ],
+      "correct_answer": "Los Lyssavirus son muy resistentes y sobreviven largos periodos de tiempo fuera del hospedador.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q52",
+      "type": "single_choice",
+      "question": "Sobre la vacunación frente a la rabia señale la respuesta INCORRECTA:",
+      "options": [
+        "La profilaxis preexposición está dirigida a personas con alto riesgo de exposición como personas que manipulan murciélagos.",
+        "Las exposiciones de categoría I exigen profilaxis postexposición inmediata con vacunación e inmunoglobulina antirrábica.",
+        "En las personas vacunadas pre o postexposición los anticuerpos neutralizantes del virus permanecen durante un periodo limitado, por lo que son necesarias serologías periódicas para constatar el nivel de anticuerpos y la revacunación si este no fuese suficiente.",
+        "La profilaxis postexposición se puede interrumpir si se comprueba, mediante pruebas de laboratorio apropiadas, que el animal sospechoso no está rabioso o, en el caso de perros y gatos domésticos, que el animal permanece sano durante un periodo de observación de 14 días."
+      ],
+      "correct_answer": "Las exposiciones de categoría I exigen profilaxis postexposición inmediata con vacunación e inmunoglobulina antirrábica.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q53",
+      "type": "single_choice",
+      "question": "Con relación a la enfermedad meningocócica señale la respuesta CORRECTA:",
+      "options": [
+        "Está producida por una bacteria Gram positiva, móvil y no capsulada.",
+        "Es una zoonosis ya que el reservorio se encuentra con frecuencia en animales.",
+        "El periodo de incubación varía entre 2 y 4 semanas, siendo habitualmente de 21 días.",
+        "La transmisión se produce con el contacto cercano y prolongado con personas infectadas, los portadores asintomáticos y con personas enfermas."
+      ],
+      "correct_answer": "La transmisión se produce con el contacto cercano y prolongado con personas infectadas, los portadores asintomáticos y con personas enfermas.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q54",
+      "type": "single_choice",
+      "question": "Con respecto a la fiebre amarilla, señale la respuesta CORRECTA:",
+      "options": [
+        "El virus de la fiebre amarilla pertenece al género Alphavirus, de la familia Togaviridae.",
+        "Es una enfermedad transmitida por mosquitos, fundamentalmente del género Culex.",
+        "La enfermedad no confiere inmunidad a largo plazo en aquellos que se recuperan de la enfermedad por lo que las reinfecciones son frecuentes.",
+        "En las formas urbanas el principal reservorio son los seres humanos y los mosquitos Aedes aegypti."
+      ],
+      "correct_answer": "En las formas urbanas el principal reservorio son los seres humanos y los mosquitos Aedes aegypti.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q55",
+      "type": "single_choice",
+      "question": "Sobre las medidas de salud pública frente a la fiebre amarilla señale la respuesta INCORRECTA:",
+      "options": [
+        "La forma de prevención de la enfermedad es mediante la vacunación y la prevención de la picadura de los mosquitos.",
+        "La vacuna está contraindicada en los menores de 5 años en el caso de la inmunización sistemática o en los menores de 2 años durante las epidemias.",
+        "La vacuna estaría contraindicada en las personas con hipersensibilidad a las proteínas del huevo.",
+        "Cuando existan contraindicaciones para la vacunación, un médico o agente de salud autorizado firmará el Certificado de Exención de Vacunación de Fiebre Amarilla."
+      ],
+      "correct_answer": "La vacuna está contraindicada en los menores de 5 años en el caso de la inmunización sistemática o en los menores de 2 años durante las epidemias.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q56",
+      "type": "single_choice",
+      "question": "Respecto a la fiebre tifoidea, señale la respuesta CORRECTA:",
+      "options": [
+        "El reservorio de esta enfermedad es animal, especialmente las aves domésticas.",
+        "El estado de portador permanente es más frecuente entre personas de mediana edad, sobre todo mujeres, generalmente con anomalías del tracto biliar.",
+        "El periodo de incubación es muy corto, oscilando entre las 12 y las 48 horas desde la exposición.",
+        "Solo son susceptibles a esta enfermedad las personas inmunodeprimidas."
+      ],
+      "correct_answer": "El estado de portador permanente es más frecuente entre personas de mediana edad, sobre todo mujeres, generalmente con anomalías del tracto biliar.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q57",
+      "type": "single_choice",
+      "question": "Sobre las medidas de salud pública frente a la fiebre tifoidea señale la respuesta INCORRECTA:",
+      "options": [
+        "La vacuna atenuada se administra de forma oral y la vacunación completa consta de 3 cápsulas que se ingieren con intervalos de 2 días.",
+        "La vacuna inactivada se administra por vía intramuscular y la primovacunación se realiza con una dosis de 0,5 ml en adultos y niños mayores de dos años.",
+        "Durante la fase aguda de la enfermedad se hará aislamiento entérico del paciente.",
+        "Las vacunas frente a la fiebre tifoidea ofrecen protección cruzada frente a enfermedad por S. Paratyphi A, B o C y otras salmonelosis no tifoideas."
+      ],
+      "correct_answer": "Las vacunas frente a la fiebre tifoidea ofrecen protección cruzada frente a enfermedad por S. Paratyphi A, B o C y otras salmonelosis no tifoideas.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q58",
+      "type": "single_choice",
+      "question": "Con relación a la hepatitis A, señale la respuesta CORRECTA:",
+      "options": [
+        "El período de incubación oscila entre 2 y 7 días, con una media de 5 días, dependiendo del inóculo.",
+        "El principal reservorio es humano.",
+        "Al ser la vacuna frente a la hepatitis A poco inmunógena, si persiste el riesgo de exposición se debe administrar una dosis de recuerdo cada 5 años.",
+        "Dado que la transmisión persona a persona es infrecuente no es necesario realizar aislamiento entérico en las primeras dos semanas de la enfermedad."
+      ],
+      "correct_answer": "El principal reservorio es humano.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q59",
+      "type": "single_choice",
+      "question": "Sobre la hepatitis B, indique la respuesta CORRECTA:",
+      "options": [
+        "La transmisibilidad se mantiene mientras se mantenga la positividad del AgHBe.",
+        "El embarazo es una contraindicación para recibir la vacuna de la hepatitis B.",
+        "La pauta de vacunación en la infancia es a los 2, 4 y 11 meses.",
+        "La evolución a la cronicidad es mucho más frecuente cuanto más tardía es la edad en que se adquiere la infección."
+      ],
+      "correct_answer": "La pauta de vacunación en la infancia es a los 2, 4 y 11 meses.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q60",
+      "type": "single_choice",
+      "question": "Con relación al paludismo, señale la respuesta CORRECTA:",
+      "options": [
+        "Plasmodium ovale es un protozoo propio de monos que puede causar infecciones en humanos.",
+        "Actualmente el mosquito Anopheles está ampliamente repartido por España, debido a que las condiciones medioambientales son favorables para su cría, desarrollo y permanencia.",
+        "Plasmodium knowlesi es el responsable de la mayoría de las muertes por malaria a nivel mundial.",
+        "La mayoría de los casos de malaria diagnosticados en España son de tipo autóctono o iatrogénico."
+      ],
+      "correct_answer": "Actualmente el mosquito Anopheles está ampliamente repartido por España, debido a que las condiciones medioambientales son favorables para su cría, desarrollo y permanencia.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q61",
+      "type": "single_choice",
+      "question": "Sobre la quimioprofilaxis frente a la malaria señale la respuesta CORRECTA:",
+      "options": [
+        "Las indicaciones de dosificación para los niños deben basarse en el peso corporal.",
+        "La administración de la cloroquina semanal debe iniciarse 1 día antes de llegar a la zona palúdica.",
+        "La administración de los antipalúdicos diarios –como doxiciclina o autovacuna/proguanil-, debe iniciarse una semana antes de llegar a la zona de riesgo.",
+        "El régimen de profilaxis con mefloquina se puede dejar de tomar 1 día después del regreso por su efecto prolongado en los parásitos de la fase hepática inicial (esquizontes hepáticos)."
+      ],
+      "correct_answer": "Las indicaciones de dosificación para los niños deben basarse en el peso corporal.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q62",
+      "type": "single_choice",
+      "question": "Con relación a la legionelosis, señale la respuesta INCORRECTA:",
+      "options": [
+        "El reservorio principal de Legionella es el agua.",
+        "Las bacterias se dispersan al exterior del sistema colonizado cuando existan mecanismos productores de aerosoles.",
+        "La transmisión persona a persona es frecuente, por lo que los casos de legionelosis deben estar en aislamiento respiratorio estricto hasta iniciar el tratamiento antibiótico.",
+        "Las condiciones de estancamiento del agua y la existencia de biofilms favorecen el crecimiento y multiplicación de la bacteria."
+      ],
+      "correct_answer": "La transmisión persona a persona es frecuente, por lo que los casos de legionelosis deben estar en aislamiento respiratorio estricto hasta iniciar el tratamiento antibiótico.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q63",
+      "type": "single_choice",
+      "question": "En un viajero que, tras su regreso de una zona endémica, presenta un cuadro compatible con una fiebre hemorrágica y que, como antecedente, cuenta la picadura de una garrapata, el diagnóstico más probable es:",
+      "options": [
+        "Fiebre hemorrágica de Crimea-Congo.",
+        "Fiebre de Lassa.",
+        "Fiebre amarilla.",
+        "Enfermedad por virus del Ébola."
+      ],
+      "correct_answer": "Fiebre hemorrágica de Crimea-Congo.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q64",
+      "type": "single_choice",
+      "question": "Señale la opción CORRECTA acerca de la leishmaniasis:",
+      "options": [
+        "Se manifiesta en una sola forma clínica.",
+        "Su agente causal se transmite a través de la picadura del mosquito Culex.",
+        "Está causada por un parásito protozoario.",
+        "Su distribución mundial es exclusiva de las zonas tropicales."
+      ],
+      "correct_answer": "Está causada por un parásito protozoario.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q65",
+      "type": "single_choice",
+      "question": "Con respecto a la peste, señale la opción INCORRECTA:",
+      "options": [
+        "La peste neumónica se produce exclusivamente por inhalación de gotas infectadas.",
+        "Las pulgas son los vectores de trasmisión de la peste.",
+        "Los roedores salvajes son los reservorios naturales de la peste.",
+        "La transmisión de la peste de los animales a los humanos se produce generalmente por la picadura de una pulga infectada, produciendo la peste bubónica."
+      ],
+      "correct_answer": "La peste neumónica se produce exclusivamente por inhalación de gotas infectadas.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q66",
+      "type": "single_choice",
+      "question": "¿En cuál de los siguientes países es menos probable que un viajero a zonas rurales esté expuesto a la peste?:",
+      "options": [
+        "Madagascar.",
+        "República Democrática del Congo.",
+        "Perú.",
+        "Australia."
+      ],
+      "correct_answer": "Australia.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q67",
+      "type": "single_choice",
+      "question": "Acerca de los objetivos reflejados en el Plan de acción en España para la erradicación de la poliomielitis 2024-2028, señale la opción INCORRECTA:",
+      "options": [
+        "Es necesario mantener unas coberturas de vacunación sistemática de al menos 95% con 3 dosis.",
+        "Se recomienda la revisión y actualización del estado de vacunación de cualquier persona que vaya a viajar a países endémicos o países en los que circula el poliovirus.",
+        "La vigilancia de poliovirus en España no incluye la vigilancia ambiental en muestras de aguas residuales.",
+        "Se establece un nivel de prealerta y tres escenarios de actuación que se activan ante la sospecha de reintroducción de un poliovirus en función de los hallazgos derivados de la vigilancia en humanos y ambiental."
+      ],
+      "correct_answer": "La vigilancia de poliovirus en España no incluye la vigilancia ambiental en muestras de aguas residuales.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q68",
+      "type": "single_choice",
+      "question": "Con relación al Plan estratégico para la eliminación del sarampión y la rubeola en España 2021-2025, señale la opción INCORRECTA:",
+      "options": [
+        "La Organización Mundial de la Salud coordina a nivel mundial la eliminación del sarampión y la rubeola y realiza un seguimiento anual de los progresos que se van alcanzando en las diferentes Regiones.",
+        "Entre sus objetivos, no está el garantizar una investigación de laboratorio de calidad.",
+        "Una de sus estrategias es fortalecer la inmunidad de la población.",
+        "Tanto el sarampión como la rubeola son enfermedades potencialmente candidatas a erradicarse mediante vacunación."
+      ],
+      "correct_answer": "Entre sus objetivos, no está el garantizar una investigación de laboratorio de calidad.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q69",
+      "type": "single_choice",
+      "question": "Señale la opción CORRECTA acerca de la vacunación no sistemática con triple vírica de población susceptible:",
+      "options": [
+        "Ante un viajero nacido en 1990 que consulta porque planea realizar un viaje internacional, se revisará y, en su caso, se actualizará la vacunación con triple vírica, independientemente del destino y tipo de su viaje.",
+        "No es necesario que las mujeres en edad fértil eviten el embarazo en las cuatro semanas siguientes a la vacunación con triple vírica.",
+        "Es necesario realizar serología de rubeola en mujeres con historia documentada de recepción de al menos una dosis de vacuna triple vírica.",
+        "Los lactantes que hayan recibido una dosis de la vacuna triple vírica antes de los 12 meses no necesitan recibir otras dos dosis, siguiendo las recomendaciones del calendario común de vacunación a lo largo de toda la vida."
+      ],
+      "correct_answer": "Ante un viajero nacido en 1990 que consulta porque planea realizar un viaje internacional, se revisará y, en su caso, se actualizará la vacunación con triple vírica, independientemente del destino y tipo de su viaje.",
+      "explanation": "La opción correcta es “Ante un viajero nacido en 1990 que consulta porque planea realizar un viaje internacional, se revisará y, en su caso, se actualizará la vacunación con triple vírica, independientemente del destino y tipo de su viaje.” porque es la que describe de forma adecuada el concepto preguntado y descarta las alternativas que no se ajustan a la definición o al procedimiento estándar."
+    },
+    {
+      "id": "q70",
+      "type": "single_choice",
+      "question": "Con respecto a la parotiditis, señale la opción INCORRECTA:",
+      "options": [
+        "Los virus de la parotiditis pertenecen a la familia Paramixoviridae, género Rubulavirus.",
+        "No se transmite en periodo asintomático.",
+        "La complicación más frecuente es la orquitis.",
+        "La medida preventiva más eficaz es la vacunación."
+      ],
+      "correct_answer": "No se transmite en periodo asintomático.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q71",
+      "type": "single_choice",
+      "question": "¿Qué ocurre cuando una persona tiene varicela y, años después, el virus se reactiva?:",
+      "options": [
+        "Puede desarrollar sarampión.",
+        "Se genera una nueva varicela.",
+        "Puede desarrollar herpes zóster.",
+        "No tiene ninguna consecuencia."
+      ],
+      "correct_answer": "Puede desarrollar herpes zóster.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q72",
+      "type": "single_choice",
+      "question": "¿Cuál es la toxina responsable de los síntomas del tétanos?:",
+      "options": [
+        "Tetanospasmina.",
+        "Exotoxina A.",
+        "Neurotoxina B.",
+        "Hemolisina."
+      ],
+      "correct_answer": "Tetanospasmina.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q73",
+      "type": "single_choice",
+      "question": "¿Cuál es el tratamiento estándar para la tuberculosis?:",
+      "options": [
+        "Antivirales durante un mes.",
+        "Antibióticos combinados durante al menos 6 meses.",
+        "Uso exclusivo de antiinflamatorios.",
+        "No requiere tratamiento específico."
+      ],
+      "correct_answer": "Antibióticos combinados durante al menos 6 meses.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q74",
+      "type": "single_choice",
+      "question": "¿Qué significa tener una carga viral indetectable en una persona con VIH?:",
+      "options": [
+        "Que ya no tiene el virus en su cuerpo.",
+        "Que el virus está presente, pero no se detecta en un análisis de sangre estándar y no se transmite por vía sexual.",
+        "Que la persona es inmune al VIH.",
+        "Que no necesita seguir con su tratamiento antirretroviral."
+      ],
+      "correct_answer": "Que el virus está presente, pero no se detecta en un análisis de sangre estándar y no se transmite por vía sexual.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q75",
+      "type": "single_choice",
+      "question": "¿Cuántos tipos de clados existen en la viruela símica?:",
+      "options": [
+        "Clados I y II.",
+        "Clados I, II y III.",
+        "Clados I, II, III y IV",
+        "Clados V y VI. PREGUNTAS DE RESERVA"
+      ],
+      "correct_answer": "Clados I y II.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q76",
+      "type": "single_choice",
+      "question": "En relación con la protección contra vectores en viajes internacionales, señale la opción CORRECTA:",
+      "options": [
+        "El tamaño de los orificios de las mosquiteras debe ser inferior a 1’5 mm.",
+        "El tamaño de los orificios de las mosquiteras debe ser inferior a 2’5 mm.",
+        "El tamaño de los orificios de las mosquiteras debe ser inferior a 3’5 mm.",
+        "El tamaño de los orificios de las mosquiteras debe ser inferior a 1 mm."
+      ],
+      "correct_answer": "El tamaño de los orificios de las mosquiteras debe ser inferior a 1’5 mm.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q77",
+      "type": "single_choice",
+      "question": "En relación con las zoonosis, señale la opción INCORRECTA:",
+      "options": [
+        "El reservorio habitual de la brucelosis son los animales domésticos principalmente los ganados caprino, ovino, bovino y porcino.",
+        "El reservorio principal de la peste son los roedores, aunque también podrán serlo carnívoros salvajes e incluso los gatos.",
+        "El reservorio natural del carbunco son los herbívoros (domésticos y salvajes) que expulsan los bacilos en las hemorragias terminales.",
+        "El principal reservorio de la leishmaniasis es el perro."
+      ],
+      "correct_answer": "El reservorio habitual de la brucelosis son los animales domésticos principalmente los ganados caprino, ovino, bovino y porcino.",
+      "explanation": "La opción correcta es “El reservorio habitual de la brucelosis son los animales domésticos principalmente los ganados caprino, ovino, bovino y porcino.” porque es la que describe de forma adecuada el concepto preguntado y descarta las alternativas que no se ajustan a la definición o al procedimiento estándar."
+    },
+    {
+      "id": "q78",
+      "type": "single_choice",
+      "question": "Todo buque, según la categoría en que esté clasificado conforme a lo establecido en el anexo I del Real Decreto 1120/2021, de 21 de diciembre, por el que se establecen condiciones mínimas sobre la protección de la salud y la asistencia médica de los trabajadores del mar, señale la opción INCORRECTA:",
+      "options": [
+        "Debe llevar permanentemente a bordo un botiquín general con el contenido mínimo que figura en la sección I del anexo II.",
+        "El Instituto Social de la Marina podrá autorizar, en función de las características estructurales de las embarcaciones, una dotación distinta a la establecida en el anexo II.",
+        "La revisión periódica de los botiquines generales será efectuada con una periodicidad máxima de seis meses.",
+        "El anexo II describe la dotación de los botiquines a bordo según su categoría A, B y",
+        ""
+      ],
+      "correct_answer": "La revisión periódica de los botiquines generales será efectuada con una periodicidad máxima de seis meses.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q79",
+      "type": "single_choice",
+      "question": "En lo relativo a las obligaciones relacionadas con el desarrollo, reforzamiento y mantenimiento de la capacidad básica necesaria para las tareas de vigilancia y respuesta que se señalan en el Anexo 1 del Reglamento Sanitario Internacional 2005 (RSI-2005), cada Estado Parte:",
+      "options": [
+        "Identificará las autoridades colaboradoras en cada uno de los puntos de entrada designados de su territorio.",
+        "Indicará un examen médico invasivo que permita lograr el objetivo de salud pública.",
+        "Designará los pasos para la entrada, pero no la salida internacional de viajeros, equipajes, cargas, contenedores, medios de transporte, mercancías y paquetes postales, así como los organismos y áreas que presten servicios.",
+        "Enviará a la OMS una lista de los puertos autorizados."
+      ],
+      "correct_answer": "Identificará las autoridades colaboradoras en cada uno de los puntos de entrada designados de su territorio.",
+      "explanation": "La opción correcta es “Identificará las autoridades colaboradoras en cada uno de los puntos de entrada designados de su territorio.” porque es la que describe de forma adecuada el concepto preguntado y descarta las alternativas que no se ajustan a la definición o al procedimiento estándar."
+    },
+    {
+      "id": "q80",
+      "type": "single_choice",
+      "question": "Señale la respuesta CORRECTA en el diagnóstico del dengue:",
+      "options": [
+        "La confirmación de la infección por dengue se hace en el laboratorio y depende de la detección del material genético del virus (ADN viral).",
+        "Con los métodos de inmunohistoquímica, es posible detectar el antígeno viral en una gran variedad de tejidos. Esto es particularmente útil para la confirmación de infecciones en tejidos provenientes de pacientes vivos.",
+        "Es importante destacar que el diagnóstico de la infección por dengue es primordialmente clínico. La confirmación por pruebas de laboratorio es para fines de la vigilancia epidemiológica.",
+        "Las pruebas rápidas (inmunocromatográficas) son muy recomendadas como parte integrante de los algoritmos de confirmación en los laboratorios."
+      ],
+      "correct_answer": "Es importante destacar que el diagnóstico de la infección por dengue es primordialmente clínico. La confirmación por pruebas de laboratorio es para fines de la vigilancia epidemiológica.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q81",
+      "type": "single_choice",
+      "question": "Señale la respuesta INCORRECTA sobre las medidas de salud pública frente a la enfermedad meningocócica:",
+      "options": [
+        "La vacunación en ningún caso sustituye a la quimioprofilaxis, sino que es una medida complementaria.",
+        "Se recomienda la administración de quimioprofilaxis a los contactos lo antes posible, tras el diagnóstico del caso, en las primeras 24 horas, siendo dudosa su utilidad después de 10 días.",
+        "Los aminoglucósidos son el grupo antibiótico de elección a la hora de realizar la quimioprofilaxis.",
+        "La ceftriaxona puede utilizarse para la quimioprofilaxis durante el embarazo y la lactancia."
+      ],
+      "correct_answer": "Los aminoglucósidos son el grupo antibiótico de elección a la hora de realizar la quimioprofilaxis.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q82",
+      "type": "single_choice",
+      "question": "Con relación al Síndrome de Rubeola Congénita (SRC), señale la opción INCORRECTA:",
+      "options": [
+        "Los casos de SRC pueden transmitir la rubeola durante el primer año de vida.",
+        "El objetivo de control propuesto por la Organización Mundial de la Salud es menos de 1 caso de SRC/100.000 nacidos vivos al año.",
+        "Las mujeres gestantes susceptibles a rubeola no deben exponerse a los casos de SRC.",
+        "Es muy frecuente que aparezcan defectos congénitos si la embarazada se infecta a partir de la semana 20 de gestación."
+      ],
+      "correct_answer": "Es muy frecuente que aparezcan defectos congénitos si la embarazada se infecta a partir de la semana 20 de gestación.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q83",
+      "type": "single_choice",
+      "question": "¿Qué es la inmunidad de rebaño en el contexto del COVID-19?:",
+      "options": [
+        "Cuando todas las personas en una comunidad se vacunan.",
+        "Cuando una gran parte de la población adquiere inmunidad (por infección o vacunación), reduciendo la propagación del virus.",
+        "Un tratamiento experimental basado en plasma.",
+        "Un tipo de inmunidad exclusiva de los animales."
+      ],
+      "correct_answer": "Cuando una gran parte de la población adquiere inmunidad (por infección o vacunación), reduciendo la propagación del virus.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q84",
+      "type": "single_choice",
+      "question": "Según el artículo 124 de la Constitución Española de 1978, el Fiscal General del Estado:",
+      "options": [
+        "Será nombrado por el Rey, a propuesta del Ministro de Justicia, oído el Tribunal Supremo.",
+        "El mandato del Fiscal General del Estado tendrá una duración de cuatro años, aunque el Gobierno que lo hubiera propuesto cesara antes de finalizar la legislatura.",
+        "Será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+        "Será elegido entre juristas españoles con al menos diez años de ejercicio efectivo de su profesión."
+      ],
+      "correct_answer": "Será nombrado por el Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q85",
+      "type": "single_choice",
+      "question": "Conforme al artículo 41 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, en relación con las notificaciones de los actos administrativos, señale la respuesta INCORRECTA:",
+      "options": [
+        "Las notificaciones se practicarán por medios no electrónicos, salvo que el interesado resulte obligado a recibirlas por esta vía.",
+        "Las Administraciones podrán practicar las notificaciones por medios no electrónicos cuando la notificación se realice con ocasión de la comparecencia espontánea del interesado o su representante en las oficinas de asistencia en materia de registro y solicite la comunicación o notificación personal en ese momento.",
+        "Las Administraciones podrán practicar las notificaciones por medios no electrónicos cuando para asegurar la eficacia de la actuación administrativa resulte necesario practicar la notificación por entrega directa de un empleado público de la Administración notificante.",
+        "Los interesados que no estén obligados a recibir notificaciones electrónicas, podrán decidir y comunicar en cualquier momento a la Administración Pública, mediante los modelos normalizados que se establezcan al efecto, que las notificaciones sucesivas se practiquen o dejen de practicarse por medios electrónicos. HA FINALIZADO LA PRUEB",
+        "SI LE HA SOBRADO TIEMPO, REPASE SUS CONTESTACIONES. 22 Ha finalizado la prueba."
+      ],
+      "correct_answer": "Las notificaciones se practicarán por medios no electrónicos, salvo que el interesado resulte obligado a recibirlas por esta vía.",
+      "explanation": "La respuesta indicada coincide con la plantilla definitiva oficial del Ministerio de Sanidad para este ejercicio."
+    },
+    {
+      "id": "q86",
+      "type": "single_choice",
+      "question": "¿Cuál de los siguientes enunciados NO se encuentra entre los usos principales de la Epidemiología?",
+      "options": [
+        "Establecimiento de normas de organización y de la atención médica.",
+        "Establecer la magnitud y distribución de la salud-enfermedad.",
+        "Completar cuadros clínicos.",
+        "Describir la historia natural de la enfermedad y de los determinantes de su curso."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q87",
+      "type": "single_choice",
+      "question": "La Diabetes Mellitus (DM) se define como un conjunto de alteraciones metabólicas caracterizadas por hiperglucemia crónica y trastornos en el metabolismo de los hidratos de carbono, las grasas y las proteínas, consecuencia de defectos en la secreción de insulina, a la acción de ésta, o a ambas. ¿A qué tipo de DM corresponde la definición de “Se caracteriza por producción insuficiente y/o uso metabólico ineficiente de la insulina producida en el páncreas. Es el tipo más frecuente, alcanzando el 90 % de la enfermedad diagnosticada”.",
+      "options": [
+        "Diabetes Mellitus Tipo 1 (DM1).",
+        "Diabetes Mellitus Tipo 2 (DM2).",
+        "Diabetes gestacional (DG).",
+        "Diabetes Insípida."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q88",
+      "type": "single_choice",
+      "question": "Los TCA o Trastornos de la Conducta Alimentaria (Señale la respuesta FALSA).",
+      "options": [
+        "Son una de las enfermedades crónicas más frecuentes en adolescentes y mujeres jóvenes.",
+        "Es una alteración del patrón de ingesta o de la conducta sobre el control del peso que produce un deterioro biopsicosocial.",
+        "La anorexia nerviosa y la bulimia nerviosa son TCA.",
+        "El trastorno por atracones no es TCA."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q89",
+      "type": "single_choice",
+      "question": "De las siguientes vacunas, ¿Cuál se podría utilizar de forma segura durante la gestación?",
+      "options": [
+        "Triple vírica.",
+        "Gripe.",
+        "Varicela.",
+        "VPH."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q90",
+      "type": "single_choice",
+      "question": "Entre los diagnósticos de enfermería más prevalentes en la Diabetes Mellitus, se encuentra el “Manejo inefectivo del régimen terapéutico”, indique que Intervenciones/NIC serían adecuadas al citado diagnóstico:",
+      "options": [
+        "Aumentar el afrontamiento.",
+        "Autoanálisis de glucemia.",
+        "Cuidado de los pies.",
+        "Educación proceso de enfermedad y Modificación de la conducta."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q91",
+      "type": "single_choice",
+      "question": "La ecuación de Harris-Benedict:",
+      "options": [
+        "Calcula las necesidades calóricas en función de talla, peso y edad.",
+        "Calcula el porcentaje de superficie total quemada en un paciente con quemaduras masivas.",
+        "Calcula el grado de empatía que tiene el personal sanitario.",
+        "Calcula el índice de masa corporal."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q92",
+      "type": "single_choice",
+      "question": "En relación con la cartera de servicios comunes del Sistema Nacional de Salud, señale la respuesta correcta:",
+      "options": [
+        "No puede ser actualizada más que transcurrido un plazo de 10 años desde su aprobación.",
+        "Su actualización no requiere la participación de las Comunidades Autónomas ya que ellas, en el ámbito de sus competencias, pueden aprobar sus respectivas carteras de servicios.",
+        "Es preciso acuerdo del Consejo Interterritorial del Sistema Nacional de Salud.",
+        "Para incorporar nuevas técnicas, tecnologías o procedimientos a la cartera, basta con que haya sido realizada su evaluación por un órgano evaluador propuesto por una Comunidad Autónoma. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q93",
+      "type": "single_choice",
+      "question": "El procedimiento en el que se inactivan todas las formas vegetativas bacterianas, virus y hongos y la mayoría de las esporas bacterianas para conseguir un nivel adecuado que permita un uso seguro para el paciente es:",
+      "options": [
+        "Asepsia.",
+        "Desinfección de nivel medio.",
+        "Antisepsia.",
+        "Desinfección de nivel alto."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q94",
+      "type": "single_choice",
+      "question": "Respecto a las úlceras por presión (UPP) indique la respuesta correcta:",
+      "options": [
+        "Constituyen un problema clínico no evitable.",
+        "La incidencia de las UPP es un indicador de la calidad de los cuidados prestados.",
+        "La prevalencia de las UPP no es un indicador de la calidad de los cuidados prestados.",
+        "Para prevenirlas hay que aumentar la presión de los puntos de apoyo."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q95",
+      "type": "single_choice",
+      "question": "En relación a las vacunas frente al virus del papiloma humano registradas en España, indique la respuesta FALSA:",
+      "options": [
+        "Son vacunas Inactivadas.",
+        "No tienen efecto terapéutico sobre la infección ya establecida.",
+        "Se obtienen por técnicas de recombinación genética.",
+        "La suspensión inyectable es transparente."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q96",
+      "type": "single_choice",
+      "question": "El patrón hormonal del climaterio consiste en:",
+      "options": [
+        "Un aumento de estrógenos.",
+        "Una disminución de gonadotropinas.",
+        "Un descenso de estrógenos.",
+        "Un aumento de progestágenos."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q97",
+      "type": "single_choice",
+      "question": "Según la profundidad de las lesiones, las quemaduras se clasifican en:",
+      "options": [
+        "Quemaduras epidémicas o de primer grado, quemaduras dérmicas o de segundo grado, quemaduras subdérmicas o de tercer grado.",
+        "Quemaduras epidémicas o de primer grado, quemaduras dérmicas superficiales o de segundo grado, quemaduras dérmicas profundas o de tercer grado, quemaduras subdérmicas o de cuarto grado.",
+        "Quemaduras epidémicas o de cuarto grado, quemaduras dérmicas superficiales o de tercer grado, quemaduras dérmicas profundas o de segundo grado, quemaduras subdérmicas o de primer grado.",
+        "Quemaduras epidémicas o de tercer grado, quemaduras dérmicas o de segundo grado, quemaduras subdérmicas o de primer grado."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q98",
+      "type": "single_choice",
+      "question": "Entre los diagnósticos de enfermería NANDA relacionados con el Procedimiento de Colocación y Cuidados de la sonda nasogástrica se encuentran (indique la INCORRECTA):",
+      "options": [
+        "Riesgo de aspiración.",
+        "Riesgo de deterioro de la integridad cutánea.",
+        "Riesgo de infecciones asociado a cirrosis hepática.",
+        "Riesgo de úlcera por presión."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q99",
+      "type": "single_choice",
+      "question": "De acuerdo con la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, ¿cuál de estas afirmaciones sobre la formación continuada NO es correcta:",
+      "options": [
+        "Es el proceso de enseñanza y aprendizaje activo y permanente al que tienen derecho, pero no obligación los profesionales sanitarios.",
+        "Tiene como objetivo mejorar en los propios profesionales la percepción de su papel social, como agentes individuales en un sistema general de atención de salud y de las exigencias éticas que ello comporta.",
+        "Se inicia al finalizar los estudios de pregrado o especialización.",
+        "Es un objetivo de la misma mejorar la cualificación de los profesionales. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q100",
+      "type": "single_choice",
+      "question": "¿A qué edad salen los caninos de leche en el niño?",
+      "options": [
+        "8-11 meses.",
+        "12-15 meses.",
+        "16-20 meses.",
+        "22-30 meses."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q101",
+      "type": "single_choice",
+      "question": "En un infarto agudo de miocardio, ¿qué alteración específica del registro electrocardiográfico aparece en los primeros segundos o minutos?:",
+      "options": [
+        "Ondas T simétricas y picudas.",
+        "Elevación del segmento ST.",
+        "Onda Q anormal.",
+        "Aparecen todos esos cambios a la vez."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q102",
+      "type": "single_choice",
+      "question": "En relación con los principios para el desarrollo de hábitos saludables, indique la respuesta correcta:",
+      "options": [
+        "Los programas orientados a conductas aisladas han demostrado resultados excelentes.",
+        "Es necesario contemplar una perspectiva global, que comprenda las cadenas conductuales implicadas en un estilo de vida.",
+        "Para que se desarrolle cualquier aprendizaje de hábitos saludables, no es necesaria la percepción del beneficio, es necesario que sean fáciles.",
+        "El aprendizaje de las rutinas y prácticas de salud, deberán ponerse en marcha cuando los niños han alcanzado su desarrollo evolutivo."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q103",
+      "type": "single_choice",
+      "question": "¿Qué valora el test de Hamilton en Geriatría?",
+      "options": [
+        "La marcha.",
+        "La seguridad ambiental.",
+        "Sobrecarga del cuidador.",
+        "El ánimo."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q104",
+      "type": "single_choice",
+      "question": "Las siguientes vacunas presentan un alto riesgo de fotosensibilidad EXCEPTO:",
+      "options": [
+        "Hepatitis A.",
+        "Tétanos.",
+        "Varicela.",
+        "Gripe."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q105",
+      "type": "single_choice",
+      "question": "En el procedimiento para la administración de medicación por la vía oftálmica, se debe preparar y colocar al paciente (indique la respuesta correcta):",
+      "options": [
+        "Sentar al paciente con la cabeza inclinada hacia adelante.",
+        "Sentar al paciente con la cabeza inclinada hacia atrás.",
+        "Sentar al paciente acostado en decúbito prono.",
+        "Sentar al paciente acostado en decúbito lateral derecho o izquierdo según el ojo a instilar."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q106",
+      "type": "single_choice",
+      "question": "Según el calendario común de vacunación en las Ciudades Autónomas de Ceuta y Melilla, se recomienda la vacunación de la gripe en personas mayores de:",
+      "options": [
+        "60 años.",
+        "64 años.",
+        "65 años.",
+        "75 años. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q107",
+      "type": "single_choice",
+      "question": "En el Plan de Ordenación de Recursos Humanos del Instituto Nacional de Gestión Sanitaria, el reingreso provisional:",
+      "options": [
+        "Es una obligación del personal.",
+        "Podrá concederse siempre que exista plaza vacante de la categoría profesional y especialidad en el Centro de Gasto en que se concedió la excedencia a la persona solicitante.",
+        "Si no existe vacante, se informará a la persona solicitante de las vacantes existentes en el Sistema Nacional de Salud de su categoría y especialidad.",
+        "Deberá concederse siempre que exista plaza vacante de la categoría profesional y especialidad en el Centro de Gasto en que se concedió la excedencia a la persona solicitante."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q108",
+      "type": "single_choice",
+      "question": "De las siguientes afirmaciones que se enumeran a continuación referidas al recién nacido prematuro, señale la correcta:",
+      "options": [
+        "Suelen presentar exceso de surfactante pulmonar, provocando la enfermedad de la membrana hialina.",
+        "Tienen escasas pérdidas insensibles de líquido través de la piel y la respiración.",
+        "La temperatura de la incubadora ha de estar comprendida entre 28ºC y 34ºC.",
+        "La humedad de la incubadora debe estar comprendida entre un 65-70%."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q109",
+      "type": "single_choice",
+      "question": "Respecto a la Fibrosis Quística (FQ), señale la opción FALSA:",
+      "options": [
+        "Se transmite con carácter autosómico recesivo.",
+        "Afecta más a la raza blanca que a la negra o asiática.",
+        "Algunos pacientes inician el cuadro clínico en la lactancia mientras que otros pueden permanecer asintomáticos hasta la adolescencia.",
+        "Aproximadamente el 65% de los pacientes con FQ tienen insuficiencia pancreática que cursa con esteatorrea."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q110",
+      "type": "single_choice",
+      "question": "Cuando nos encontramos con esta definición: \"Proceso por el cual las enfermeras toman decisiones clínicas usando las mejores pruebas disponibles sustentadas en la investigación y la ciencia, su experiencia clínica y las preferencias del paciente, en el contexto de los recursos disponibles”, estamos hablando de:",
+      "options": [
+        "EBMB (Enfermería basada en el Modelo Biomédico).",
+        "EBE (Enfermería basada en la evidencia).",
+        "EBC (Enfermería basada en la ciencia-modelo de cuidados).",
+        "EBMP (Enfermería basada en modelos de la práctica clínica)."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q111",
+      "type": "single_choice",
+      "question": "A la hora de realizar búsquedas bibliográficas para una investigación utilizamos operadores booleanos. Sabemos que hay varios y que cada uno tiene sus características. De los que le proponemos, ¿Podría indicar cuál es el operador que más amplía el resultado de búsqueda llegando incluso a localizar registros en los que se cumpla al menos un término de búsqueda?",
+      "options": [
+        "OR.",
+        "NOT.",
+        "XOR.",
+        "AND."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q112",
+      "type": "single_choice",
+      "question": "La fase de planificación del proceso enfermero implica:",
+      "options": [
+        "Obtener, Recoger, Organizar, Validar y Valorar.",
+        "Identificar, Validar, Inferir e Interpretar.",
+        "Priorizar, Definir objetivos y Estrategias.",
+        "Actualizar datos, Actuar, Favorecer la relación de ayuda."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q113",
+      "type": "single_choice",
+      "question": "Una joven adolescente acude a la consulta de enfermería y durante la entrevista observamos que presenta callosidades en los nudillos (signo de Russell). Este hallazgo nos puede indicar que:",
+      "options": [
+        "Es víctima de malos tratos.",
+        "Puede padecer algún trastorno de la conducta alimentaria.",
+        "Practica algún tipo de deporte de contacto.",
+        "Tiene alguna patología dermatológica. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q114",
+      "type": "single_choice",
+      "question": "¿Cuál de los siguientes NO es un objetivo de los cuidados paliativos según la OMS?",
+      "options": [
+        "Alivio del dolor y otros síntomas.",
+        "Dar apoyo psicológico, social y espiritual.",
+        "Considerar la muerte como un proceso anormal.",
+        "Dar apoyo a la familia durante la enfermedad y el duelo."
+      ],
+      "correct_answer": "Considerar la muerte como un proceso anormal.",
+      "explanation": "Los cuidados paliativos buscan afirmar la vida y considerar la muerte como un proceso normal, sin acelerar ni retrasar, con control de síntomas y apoyo integral."
+    },
+    {
+      "id": "q115",
+      "type": "single_choice",
+      "question": "Entre los diagnósticos de enfermería NANDA, relacionados con el procedimiento de administración de medicación a través de la vía ótica se encuentran, indique la respuesta correcta:",
+      "options": [
+        "Disposición para mejorar la autogestión de la salud.",
+        "Riesgo de desequilibrio de la temperatura corporal.",
+        "Limpieza ineficaz de las vías aéreas.",
+        "Náuseas."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q116",
+      "type": "single_choice",
+      "question": "De los siguientes parámetros de la función pulmonar ¿Cual NO se modifica durante el embarazo?",
+      "options": [
+        "Capacidad inspiratoria.",
+        "Capacidad vital.",
+        "Volumen respiratorio circulante.",
+        "Volumen residual."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q117",
+      "type": "single_choice",
+      "question": "¿Según el calendario de vacunación infantil vigente en las ciudades Autónomas de Ceuta y Melilla, ¿qué vacunas se administran a los 3 años?",
+      "options": [
+        "Triple vírica (sarampión, rubeola y parotiditis) y Meningococo C conjugada.",
+        "Varicela y hepatitis A.",
+        "Varicela y Meningococo C conjugada.",
+        "Triple vírica (sarampión, rubeola y parotiditis) y varicela."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q118",
+      "type": "single_choice",
+      "question": "Según el artículo 2 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, la negativa al tratamiento debe ser:",
+      "options": [
+        "De forma escrita.",
+        "De forma verbal.",
+        "De forma verbal y escrita.",
+        "Ante testigos que puedan corroborar la negativa."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q119",
+      "type": "single_choice",
+      "question": "En Salud Pública, la cantidad de personas de la comunidad que se ven afectadas por el problema de salud o la enfermedad que deba ser objeto de prevención y el impacto que éste problema tiene en la cantidad y calidad de vida de la comunidad, se asocia a la definición de:",
+      "options": [
+        "Vulnerabilidad.",
+        "Magnitud.",
+        "Trascendencia.",
+        "Viabilidad."
+      ],
+      "correct_answer": "Trascendencia.",
+      "explanation": "La trascendencia considera impacto del problema en cantidad y calidad de vida; la magnitud se refiere más a número/ frecuencia de afectados."
+    },
+    {
+      "id": "q120",
+      "type": "single_choice",
+      "question": "De las siguientes afirmaciones referidas al desarrollo durante la pubertad señale la INCORRECTA:",
+      "options": [
+        "Se considera pubertad precoz la aparición de signos puberales antes de los 7 años en las niñas y los 8 en los niños.",
+        "La escala de Tanner se utiliza para valorar la madurez sexual.",
+        "Las necesidades energéticas diarias en el adolescente se estiman en 2100-2400 kcal para las chicas y 2400-2800 kcal para los chicos.",
+        "La aceleración del crecimiento en la pubertad, “estirón puberal”, se da antes en las chicas que en los chicos. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q121",
+      "type": "single_choice",
+      "question": "En relación a la seguridad del paciente, la gestión de los riesgos y los Efectos Adversos(E",
+      "options": [
+        "que pueden estar asociados a la asistencia sanitaria, la OMS establece una taxonomía de Seguridad del Paciente en la que se definen los efectos y sus resultados con el fin de que estén mejor catalogados. De tal manera que si nos encontramos ante una lesión que haya prolongado el tiempo de hospitalización, que haga necesarias más pruebas diagnósticas o más tratamientos, debemos relacionarla con:",
+        "Incidente relacionado con la seguridad del paciente.",
+        "Incidente sin daño.",
+        "Incidente con daño.",
+        "Daño innecesario."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q122",
+      "type": "single_choice",
+      "question": "Dentro de las funciones de atención directa desarrolladas por los equipos de atención primaria NO se encuentra:",
+      "options": [
+        "Promoción de los estilos de vida saludables.",
+        "Prevención secundaria de problemas más prevalentes en la comunidad.",
+        "Elaboración e implementación de proyectos de educación para la salud en los entornos escolares.",
+        "Formación pregrado y posgrado del personal de salud."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q123",
+      "type": "single_choice",
+      "question": "¿Cómo se define al Proceso de Atención de Enfermería?",
+      "options": [
+        "Modelo conceptual y organizado de enfermería que define al hombre, a la familia y a la comunidad.",
+        "Método sistemático y racional organizado para proporcionar cuidados de enfermería individualizados.",
+        "Teoría desarrollada por el Consejo Internacional de Enfermeras (CIE).",
+        "Acción realizada por la enfermera/o para prevenir la enfermedad y restablecer la salud."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q124",
+      "type": "single_choice",
+      "question": "El síndrome del túnel carpiano es el aprisionamiento de un nervio procedente del antebrazo al producirse una presión excesiva sobre él, a su paso por una zona angosta y estrecha entre huesos de la zona de la muñeca. Indique el nervio principalmente afectado:",
+      "options": [
+        "Nervio braquial.",
+        "Nervio cubital.",
+        "Nervio mediano.",
+        "Nervio radial."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q125",
+      "type": "single_choice",
+      "question": "El término MANIPULADOR DE CITOSTÁTICOS se aplicaría al personal, encargado de la recepción, transporte y almacenamiento de este tipo de medicamentos, así como quien realice cualquiera de las actividades siguientes, Indique la respuesta INCORRECTA:",
+      "options": [
+        "Enfermera que facilita la participación de los miembros de la familia en el cuidado emocional y físico del paciente.",
+        "Enfermera que dirige grupos de ayuda para proporcionar apoyo emocional información relacionada con la salud a sus miembros.",
+        "Enfermera que facilita la capacidad de una persona enferma para interactuar con los demás.",
+        "Enfermera que coordina la asistencia y defensa de los individuos y poblaciones en diversos contextos para mejorar la calidad de la asistencia y conseguir los resultados deseados, reducir costes y disminuir el uso de recursos. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q126",
+      "type": "single_choice",
+      "question": "Según lo dispuesto en el artículo 5 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales los responsables y encargados del tratamiento de datos, así como todas las personas que intervengan en cualquier fase de este estarán sujetas al deber de:",
+      "options": [
+        "Custodia.",
+        "Secreto profesional.",
+        "Confidencialidad.",
+        "Sigilo."
+      ],
+      "correct_answer": "Confidencialidad.",
+      "explanation": "El art. 5 de la LO 3/2018 (LOPDGDD) establece el deber de confidencialidad para responsables/encargados y cualquier persona que intervenga en el tratamiento, incluso después de finalizar la relación con el responsable."
+    },
+    {
+      "id": "q127",
+      "type": "single_choice",
+      "question": "¿Cuáles son las etapas del método científico enfermero?",
+      "options": [
+        "Valoración, Ejecución, Diagnóstico, Planificación y Evaluación.",
+        "Valoración. Diagnóstico. Planificación. Ejecución y Evaluación.",
+        "Planificación, Valoración, Diagnóstico, Ejecución y Evaluación.",
+        "Diagnóstico, Planificación, Ejecución y Evaluación."
+      ],
+      "correct_answer": "Valoración. Diagnóstico. Planificación. Ejecución y Evaluación.",
+      "explanation": "El método científico enfermero/PAE se estructura en cinco etapas: valoración (recoger datos), diagnóstico (identificar problemas), planificación (objetivos e intervenciones), ejecución (implementación) y evaluación (resultados)."
+    },
+    {
+      "id": "q128",
+      "type": "single_choice",
+      "question": "Entre los factores de riesgo para el desprendimiento de placenta se incluye:",
+      "options": [
+        "Consumo de alcohol.",
+        "Sedentarismo.",
+        "Hipertensión.",
+        "Hipotiroidismo."
+      ],
+      "correct_answer": "Hipertensión.",
+      "explanation": "La hipertensión (crónica o gestacional/preeclampsia) es un factor de riesgo principal de desprendimiento prematuro de placenta; también lo son tabaco, cocaína y trauma."
+    },
+    {
+      "id": "q129",
+      "type": "single_choice",
+      "question": "En los pacientes con alimentación por sonda enteral que se necesita administrar medicamentos directamente al tubo digestivo, pero dichos pacientes no pueden ingerirlos, y esta es la vía de administración indicada, hay que tener en cuenta los siguientes aspectos (Señale la respuesta FALSA):",
+      "options": [
+        "Comprobar la ubicación de la sonda y su permeabilidad.",
+        "Está contraindicada la administración de comprimidos con revestimiento entérico o líquidos oleosos.",
+        "Hay que tener especial precaución ante el riesgo de obstrucción en las sondas de poco calibre.",
+        "Está indicada cuando hay intolerancia oral."
+      ],
+      "correct_answer": "Está contraindicada la administración de comprimidos con revestimiento entérico o líquidos oleosos.",
+      "explanation": "En la administración por sonda se evita triturar comprimidos con recubrimiento entérico o de liberación modificada. Sin embargo, los “líquidos oleosos” no están universalmente contraindicados: depende de la formulación y compatibilidad; el enunciado, al afirmarlo como regla general, es la opción falsa."
+    },
+    {
+      "id": "q130",
+      "type": "single_choice",
+      "question": "Teniendo en cuenta la escala de valoración de Karnofsky en el paciente terminal, si un paciente tiene una puntuación de 10 en dicha escala, nos indica que el paciente:",
+      "options": [
+        "Está moribundo.",
+        "Inválido grave, severamente incapacitado y tratamiento de soporte activo.",
+        "Encamado por completo, paciente muy grave, necesita hospitalización y tratamiento activo.",
+        "Requiere atención ocasional, pero puede cuidarse a sí mismo."
+      ],
+      "correct_answer": "Está moribundo.",
+      "explanation": "En la escala de Karnofsky, una puntuación de 10 indica paciente moribundo (procesos terminales avanzados), con necesidad máxima de cuidados."
+    },
+    {
+      "id": "q131",
+      "type": "single_choice",
+      "question": "Según la Estrategia en Diabetes del Sistema Nacional de Salud, 2012, las complicaciones de la diabetes se clasifican en: agudas, en forma de hiperglucemia descontrolada o de hipoglucemia; y crónicas relacionadas con la hiperglucemia mantenida y las comorbilidades asociadas a la diabetes (obesidad, HTA, dislipemia, etc.) ¿Cuál de las siguientes es una complicación crónica?",
+      "options": [
+        "Cetoacidosis.",
+        "Coma hiperosmolar no cetósico.",
+        "Hipoglucemia.",
+        "La disfunción eréctil."
+      ],
+      "correct_answer": "La disfunción eréctil.",
+      "explanation": "La disfunción eréctil es una complicación crónica vinculada a neuropatía/autonomía y vasculopatía diabética. Las otras (cetoacidosis, coma hiperosmolar, hipoglucemia) son agudas."
+    },
+    {
+      "id": "q132",
+      "type": "single_choice",
+      "question": "¿Cómo denominaría los estudios analíticos en los que las unidades de análisis son agregaciones de personas y no sujetos individuales?:",
+      "options": [
+        "Estudios comunitarios.",
+        "Estudios ecológicos.",
+        "Estudios de prevalencia.",
+        "Estudios factoriales. INJ -"
+      ],
+      "correct_answer": "Estudios ecológicos.",
+      "explanation": "Los estudios ecológicos analizan asociaciones usando unidades agregadas (poblaciones, áreas geográficas) en lugar de individuos; son analíticos a nivel grupal."
+    },
+    {
+      "id": "q133",
+      "type": "single_choice",
+      "question": "Ante un enfermo de Alzheimer que pasa todo el tiempo chillando y molestando a los demás residentes o familiares, debemos inicialmente:",
+      "options": [
+        "Reprenderle para que así se calle.",
+        "Administrarle un sedante para que así descanse él y quienes les rodean.",
+        "Intentar siempre identificar la causa de los chillidos y tratar de satisfacer sus demandas cuando sea posible.",
+        "No realizar ninguna medida esperando que la actitud remita."
+      ],
+      "correct_answer": "Intentar siempre identificar la causa de los chillidos y tratar de satisfacer sus demandas cuando sea posible.",
+      "explanation": "La primera intervención es valorar causas (dolor, miedo, necesidad, delirium, entorno) y aplicar medidas no farmacológicas. Sedación o reprimendas no son primera elección y pueden empeorar conducta."
+    },
+    {
+      "id": "q134",
+      "type": "single_choice",
+      "question": "¿Cómo se llama el trastorno del estado de ánimo que alterna episodios de euforia y de depresión en un período de tiempo concreto?",
+      "options": [
+        "Trastorno afectivo.",
+        "Trastorno bipolar.",
+        "Trastorno por depresión.",
+        "Trastorno ciclotímico."
+      ],
+      "correct_answer": "Trastorno bipolar.",
+      "explanation": "El trastorno bipolar se caracteriza por alternancia de episodios de manía/hipomanía (euforia) y depresión. La ciclotimia es una forma más leve y crónica, con fluctuaciones subumbrales."
+    },
+    {
+      "id": "q135",
+      "type": "single_choice",
+      "question": "A continuación, se exponen una serie de definiciones y afirmaciones. Señale la INCORRECTA:",
+      "options": [
+        "La asepsia hace referencia a la utilización de procedimientos que impidan el acceso de microorganismos patógenos a un medio libre de ellos.",
+        "Biocidas son aquellas sustancias que por medios químicos o bien biológicos pueden destruir, contrarrestar, neutralizar, impedir la acción o ejercer un efecto de control sobre cualquier organismo nocivo.",
+        "La concentración bactericida mínima se considera el mejor parámetro de resultado de eficacia de un antimicrobiano.",
+        "En cuanto a los antisépticos sobre la piel intacta, cuando se requiere un efecto inmediato mejor usar clorhexidina y si se busca un efecto prolongado mejor utilizar povidona iodada."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q136",
+      "type": "single_choice",
+      "question": "Según la Ley 31/1995 de prevencion de riesgos laborales, se considera una obligación del trabajador:",
+      "options": [
+        "Proveerse de los medios y equipos de protección necesarios para su seguridad.",
+        "Cooperar con el empresario para que éste pueda garantizar unas condiciones de trabajo que sean seguras.",
+        "Utilizar según su experiencia los medios y equipos de protección facilitados por el empresario.",
+        "Evaluar los planes y programas de prevención de riesgos en la empresa."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q137",
+      "type": "single_choice",
+      "question": "Respecto a la EPOC, señale la respuesta INCORRECTA:",
+      "options": [
+        "La EPOC es la única de las enfermedades crónicas frecuentes cuyas tasas de mortalidad no han disminuido en los últimos 30 años.",
+        "En España, afecta aproximadamente al 10% de la población.",
+        "Se considera que existe una obstrucción al flujo aéreo cuando la relación entre el volumen espiratorio forzado en el 1er segundo y la capacidad vital forzada (FEV1/FV",
+        "es inferior a 1 tras haber administrado un broncodilatador por vía aérea.",
+        "El déficit de alfa1-antitripsina está relacionado con el enfisema, una patología del grupo EPOC."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q138",
+      "type": "single_choice",
+      "question": "Señale los signos de alarma que deben hacer sospechar de la existencia de una situación de maltrato en el niño:",
+      "options": [
+        "Dermatitis del pañal que no remite al tratamiento.",
+        "Lesiones cutáneas, quemadura pequeñas redondas y profundas.",
+        "No asistencia a un control previamente citado.",
+        "Intoxicación por ansiolíticos o antidepresivos. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q139",
+      "type": "single_choice",
+      "question": "De entre las siguientes variables estadísticas, debe señalar cuál es una variable cualitativa ordinal:",
+      "options": [
+        "Origen de la población (Nacional / Extranjero).",
+        "Número de camas hospitalarias libres.",
+        "Glucemia basal en una muestra.",
+        "Respuesta al tratamiento analgésico en un grupo de personas con dolor lumbar crónico."
+      ],
+      "correct_answer": "Respuesta al tratamiento analgésico en un grupo de personas con dolor lumbar crónico.",
+      "explanation": "Una variable ordinal cualitativa se expresa en categorías ordenadas (p. ej., “sin mejoría / mejoría parcial / mejoría completa”). La respuesta a un analgésico suele evaluarse en niveles ordenables, a diferencia de variables nominales o cuantitativas."
+    },
+    {
+      "id": "q140",
+      "type": "single_choice",
+      "question": "¿Cuál de los siguientes test sirve para diagnosticar la demencia?:",
+      "options": [
+        "Test de Framingham.",
+        "Escala de Palacios.",
+        "Test de Fagerström.",
+        "Test del informador (TIN)."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q141",
+      "type": "single_choice",
+      "question": "¿Qué se conoce como Síndrome Socio-Sanitario?",
+      "options": [
+        "Al problema de coordinación entre niveles asistenciales (",
+        "primaria, At. Hospitalaria y Servicios sociales) que dificulta la trasmisión de información para realizar una adecuada continuidad de cuidados en el paciente.",
+        "Al problema de inexistencia de comunicación entre diferentes niveles asistenciales, que imposibilita la adecuada información de continuidad de cuidados y repercute en la pérdida progresiva de autonomía del paciente.",
+        "Al problema de salud que presenta un paciente con cuidados múltiples, en diferentes niveles asistenciales, ante la cual el conjunto de servicios sanitarios y sociales es incapaz de dar una respuesta global y coordinada.",
+        "A la creciente dificultad de recursos asistenciales en centros sociales para acoger las demandas de derivación de pacientes desde otros niveles asistenciales (At. Primaria y At. Hospitalaria)."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q142",
+      "type": "single_choice",
+      "question": "Los modelos y teorías de Enfermería pretenden:",
+      "options": [
+        "Describir, establecer y examinar los fenómenos que conforman la práctica de Enfermería.",
+        "Describir los fenómenos que conforman la práctica de Enfermería al estudio de enfermedades congénitas.",
+        "Examinar los fenómenos que conforman la práctica de Enfermería al estudio de enfermedades congénitas.",
+        "Describir los fenómenos que conforman la práctica de Enfermería al estudio de enfermedades crónicas."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q143",
+      "type": "single_choice",
+      "question": "¿Qué fármacos aumentan el riesgo de pérdida ósea en las mujeres con menopausia?",
+      "options": [
+        "Antidiabéticos orales.",
+        "Glucocorticoides.",
+        "Antinflamatorios.",
+        "Antiparkinsonianos."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q144",
+      "type": "single_choice",
+      "question": "Entre los factores que NO pueden explicar las diferencias y desigualdades en salud relacionados con el género están:",
+      "options": [
+        "Factores biológicos ligados al sexo.",
+        "Obligaciones y roles familiares.",
+        "Ocupación y patrones de socialización.",
+        "Factores ambientales."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q145",
+      "type": "single_choice",
+      "question": "En el tratamiento correcto de los residuos sanitarios:",
+      "options": [
+        "La recogida de residuos sanitarios es independiente de los criterios de asepsia, inocuidad y economía.",
+        "El primer paso que debe seguirse es la correcta separación basándose en su clasificación.",
+        "Los residuos del grupo I van a recipientes rígidos y a prueba de pinchazos.",
+        "Los residuos de los grupos II y III se recogen en bolsas y recipientes que tengan un volumen superior a 70 l. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q146",
+      "type": "single_choice",
+      "question": "La estructura de la clasificación NANDA Internacional agrupa los diagnósticos en:",
+      "options": [
+        "Patrones de respuesta humana.",
+        "Patrones del hombre unitario.",
+        "Patrones funcionales de salud de Gordon.",
+        "Dominios y clases."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q147",
+      "type": "single_choice",
+      "question": "De entre las siguientes, señale la respuesta INCORRECTA en referencia a los trastornos alimentarios en la adolescencia:",
+      "options": [
+        "El momento del diagnóstico es más temprano en la anorexia que en la bulimia.",
+        "La mayor incidencia se da en el rango de edad de 18-25 años para la anorexia.",
+        "Los trastornos de la conducta alimentaria son más frecuentes en el sexo femenino.",
+        "La Pica es un trastorno alimentario que se caracteriza porque el adolescente ingiere sustancias no comestibles (papel, tela, tierra…)."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q148",
+      "type": "single_choice",
+      "question": "La Ley Orgánica 1/2004 de 28 de diciembre de Medidas de Protección Integral contra la violencia de género, tiene por objeto:",
+      "options": [
+        "Con el fin de garantizar la efectiva igualdad entre hombres y mujeres, las Administraciones educativas velarán para que en todos los materiales educativos se eliminen los estereotipos sexistas o discriminatorios y para que fomenten el igual valor de hombres y mujeres.",
+        "Fortalecer las medidas de sensibilización ciudadana de prevención, dotando a los poderes públicos de instrumentos eficaces en el ámbito educativo, servicios sociales, sanitario, publicitario y mediático.",
+        "Actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
+        "Coordinar los recursos e instrumentos de todo tipo de los distintos poderes públicos para asegurar la prevención de los hechos de violencia de género y, en su caso, la sanción adecuada a los culpables de los mismos."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q149",
+      "type": "single_choice",
+      "question": "Para la elaboración de un programa de educación sanitaria, es necesario:",
+      "options": [
+        "En la enseñanza de técnicas, es suficiente con realizar una única demostración práctica.",
+        "Se establecen prioridades sin definir plazos.",
+        "Las actividades educativas se realizan siempre en grupo.",
+        "Es conveniente que exista un grupo de responsables para el seguimiento del programa educativo."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q150",
+      "type": "single_choice",
+      "question": "En el procedimiento para la toma de muestras en un frotis conjuntival, se debe (indique la respuesta correcta):",
+      "options": [
+        "Hacer toma de ambos ojos con la misma torunda.",
+        "Rotar cada torunda en cada conjuntiva tarsal y fórmix.",
+        "Humedecer las torundas para no alterar el resultado de la toma.",
+        "No es necesario realizar el sistema de identificación de la muestra."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q151",
+      "type": "single_choice",
+      "question": "Para transmitir un mensaje con éxito:",
+      "options": [
+        "Lo importante es lo que diga el emisor.",
+        "El canal no importa, aunque el público sea diferente.",
+        "El mensaje debe basarse en hechos y evitar el humor.",
+        "Será más efectivo cuanto menor esfuerzo requiera del receptor."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q152",
+      "type": "single_choice",
+      "question": "Dentro de la clasificación de las disfunciones sexuales femeninas propuestas por la Organización Mundial de la Salud (OMS) se encuentra:",
+      "options": [
+        "Falta o pérdida de deseo sexual.",
+        "Vaginismo orgánico.",
+        "Dispareunia orgánica.",
+        "Excitación sexual intermitente. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q153",
+      "type": "single_choice",
+      "question": "¿Con cuántas dosis de vacuna parenteral inactivada de polio se consigue un nivel de protección cercano al 100% y duradero?",
+      "options": [
+        "Con más de 5 dosis.",
+        "Con 1 sola dosis.",
+        "Con 4 dosis.",
+        "Entre 1 y 3 dosis."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q154",
+      "type": "single_choice",
+      "question": "La prevención primaria:",
+      "options": [
+        "Consiste en evitar o disminuir la probabilidad de padecer una determinada enfermedad.",
+        "Se ocupa del diagnóstico y tratamiento precoz de la enfermedad.",
+        "Actúa cuando ya se ha establecido la enfermedad, pero intentando retrasar su curso.",
+        "Está dirigida a identificar pacientes en riesgo de sufrir intervenciones innecesarias, poco éticas e innecesariamente invasivas."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q155",
+      "type": "single_choice",
+      "question": "En un estudio realizado en nuestro país en 2021, se observó que de entre todos los niños nacidos vivos ese año, el 1,20 /1000 de esos niños fallecieron en su primera semana de vida ¿de qué indicador estamos hablando?",
+      "options": [
+        "Tasa de natalidad perinatal.",
+        "Tasa de mortalidad neonatal.",
+        "Tasa de mortalidad intranatal tardía.",
+        "Tasa de mortalidad neonatal precoz."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q156",
+      "type": "single_choice",
+      "question": "En un centro de salud se ha llevado a cabo una intervención en educación para la salud con 15 pacientes, dirigida a reducir la prevalencia de trastornos de ansiedad. Los evaluadores analizaron el tiempo que duró cada sesión, así como el grado de participación. Se puede decir que se ha realizado una evaluación:",
+      "options": [
+        "De impacto.",
+        "De resultados.",
+        "De proceso.",
+        "Implementadora."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q157",
+      "type": "single_choice",
+      "question": "La escala de coma de Glasgow consta de varios apartados fundamentales que son:",
+      "options": [
+        "Pares craneales, respuesta motora, respuesta sensitiva.",
+        "Apertura de ojos, respuesta verbal, respuesta motora.",
+        "Respuesta al dolor, respuesta verbal, respuesta motora.",
+        "Reflejos oculares, reflejos tendinosos, reflejos espinales."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q158",
+      "type": "single_choice",
+      "question": "Señale cuál de los siguientes NO es un elemento conceptual que caracteriza a la Atención Primaria de Salud:",
+      "options": [
+        "Longitudinal.",
+        "Integral.",
+        "Transversal.",
+        "Comunitaria y participativa."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q159",
+      "type": "single_choice",
+      "question": "En la anorexia nerviosa ¿qué hormona se ve aumentada cuando la pérdida ponderal de peso es mayor del 25%?",
+      "options": [
+        "LH, FSH.",
+        "IGF1.",
+        "GH.",
+        "Estradiol."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q160",
+      "type": "single_choice",
+      "question": "En relación con las prestaciones de atención a la dependencia recogidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, señale la respuesta correcta:",
+      "options": [
+        "Incluyen Centro de Noche.",
+        "La prestación económica vinculada al servicio puede ser periódica o a tanto alzado.",
+        "No incluyen los Centros de Día para menores de 65 años.",
+        "La prestación económica para cuidados en el entorno familiar y apoyo a cuidadores no profesionales, se recoge en la Ley como la más habitual. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q161",
+      "type": "single_choice",
+      "question": "Ante una situación de hipotermia hay varios métodos de recalentamiento. Forma parte del recalentamiento pasivo el:",
+      "options": [
+        "Aumento de la temperatura corporal mediante el recalentamiento de la piel con manta eléctrica.",
+        "Aumento de la temperatura corporal mediante la introducción en el organismo de aire o líquidos calientes.",
+        "Aumento de la temperatura corporal mediante la inmersión en tanque de agua caliente.",
+        "Aumento de la temperatura corporal mediante la producción de calor del propio paciente."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q162",
+      "type": "single_choice",
+      "question": "Según el Listado de Verificación Quirúrgica, el marcado del lugar donde ha de realizarse la intervención, debe hacerse en el periodo:",
+      "options": [
+        "Antes de la incisión.",
+        "Antes de la inducción a la anestesia.",
+        "Después de la inducción a la anestesia y antes de la incisión.",
+        "En el momento que lo considere la enfermera circulante."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q163",
+      "type": "single_choice",
+      "question": "De las siguientes técnicas para la obtención de secreciones bronquiales ¿cuál es recomendable realizar a primera hora de la mañana?",
+      "options": [
+        "Esputo inducido.",
+        "Broncoaspirado.",
+        "Lavado broncoalveolar.",
+        "Fibrobroncoscopia."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q164",
+      "type": "single_choice",
+      "question": "Si clasificamos los modelos en base a las diferentes tendencias en la prestación de cuidados, señale donde clasificaríamos el modelo de Dorothea Orem:",
+      "options": [
+        "Naturalista.",
+        "De suplencia y ayuda.",
+        "De Interrelación.",
+        "Ecologista."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q165",
+      "type": "single_choice",
+      "question": "¿Cuál de las siguientes NO está considerada como una escala de valoración del deterioro cognitivo?",
+      "options": [
+        "Test del Reloj.",
+        "Test Folstein MMSE.",
+        "Escala Pfeiffer.",
+        "Escala de Aldrete."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q166",
+      "type": "single_choice",
+      "question": "¿Qué medidas fundamentales debemos recomendar para la prevención de enfermedades de transmisión sexual?",
+      "options": [
+        "Inmunización con vacuna del virus del papiloma humano (VPH).",
+        "Recomendación de la realización de una citología de cribado.",
+        "Detección de conductas de riesgo y uso del preservativo.",
+        "Profilaxis antibiótica previa a las relaciones sexuales."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q167",
+      "type": "single_choice",
+      "question": "Las causas prerrenales de la insuficiencia renal aguda (IR",
+      "options": [
+        "son:",
+        "Cáncer de próstata y formación de cálculos.",
+        "Hipovolemia e infarto de miocardio.",
+        "Glomerulonefritis aguda.",
+        "Lesiones nefrotóxicas por fármacos."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q168",
+      "type": "single_choice",
+      "question": "Los principales síntomas urinarios del síndrome genitourinario de la menopausia son:",
+      "options": [
+        "Urgencia miccional, disuria y las infecciones del tracto urinario inferior.",
+        "Poliuria y urgencia miccional.",
+        "Incontinencia urinaria de esfuerzo.",
+        "Incontinencia urinaria y en ocasiones fecal. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q169",
+      "type": "single_choice",
+      "question": "La Constitución Española en su artículo 43 establece:",
+      "options": [
+        "Los poderes públicos fomentarán la educación sanitaria, la educación mental y el deporte. Asimismo, facilitarán la adecuada utilización del ocio.",
+        "Se reconoce el derecho a la prestación de la salud.",
+        "Compete a los poderes públicos organizar y tutelar la salud pública a través de medidas preventivas y de las prestaciones y servicios necesarios. La ley establecerá los derechos y deberes de todos al respecto.",
+        "Los poderes públicos garantizarán la defensa de los consumidores y usuarios, protegiendo, mediante procedimientos eficaces, la seguridad, la salud y los legítimos intereses económicos de los mismos."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q170",
+      "type": "single_choice",
+      "question": "Cuando necesitamos realizar un análisis de gases arteriales mediante punción directa de una arteria ¿cuál de las siguientes sería la de última opción?",
+      "options": [
+        "Arteria radial.",
+        "Arteria cubital.",
+        "Arteria femoral.",
+        "Arteria humeral."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q171",
+      "type": "single_choice",
+      "question": "¿Cómo definiría una articulación ósea de movimientos muy limitados que está formada por dos superficies más o menos planas unidas firmemente por fibrocartílago a modo de ligamentos?",
+      "options": [
+        "Sinartrosis.",
+        "Anfiartrosis.",
+        "Diartrosis.",
+        "Enartrosis."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q172",
+      "type": "single_choice",
+      "question": "Los factores más importantes que predisponen la aparición de la anorexia y la bulimia en adolescentes son:",
+      "options": [
+        "La presión social y las características familiares y de personalidad.",
+        "La pubertad.",
+        "Las relaciones sociales exclusivamente.",
+        "Exigencias profesionales."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q173",
+      "type": "single_choice",
+      "question": "De los siguientes signos vitales ¿cuál de ellos se monitoriza de forma invasiva?",
+      "options": [
+        "La frecuencia cardiaca.",
+        "El ritmo cardiaco.",
+        "La frecuencia respiratoria.",
+        "La presión venosa central."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q174",
+      "type": "single_choice",
+      "question": "La salud sexual es:",
+      "options": [
+        "Un estado de bienestar físico y moral.",
+        "Una etapa vital de respeto y seguridad.",
+        "Un estado de bienestar físico, emocional, mental y social.",
+        "La ausencia de discriminación, violencia y consenso."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q175",
+      "type": "single_choice",
+      "question": "En relación a los determinantes de salud, se considera que en la práctica adquieren la suficiente relevancia como para ser tenidos en cuenta y, por tanto, estar visibles en la Historia Clínica del paciente. Bajo este concepto se daría cabida a: Indique la respuesta INCORRECTA.",
+      "options": [
+        "Antecedentes Familiares.",
+        "Determinantes Medioambientales.",
+        "Estilos de Vida.",
+        "Enfermedades relacionadas con la exposición a redes sociales."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q176",
+      "type": "single_choice",
+      "question": "Los componentes de la valoración geriátrica son:",
+      "options": [
+        "Físico, funcional, mental y socioambiental.",
+        "Funcional, mental, social y cuidados de enfermería.",
+        "Riesgo funcional, social y económico.",
+        "Pluripatología, funcional y mental. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q177",
+      "type": "single_choice",
+      "question": "Conforme a la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud. ¿En qué situación será declarado el personal estatutario fijo que pase a prestar servicios en una categoría profesional diferente?",
+      "options": [
+        "Servicios bajo otro régimen jurídico.",
+        "Excedencia por prestar servicios en el sector público.",
+        "Servicios Especiales.",
+        "Suspensión de funciones."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q178",
+      "type": "single_choice",
+      "question": "La acumulación de orina en la vejiga y la incapacidad de esta para vaciarse se denomina:",
+      "options": [
+        "Incontinencia urinaria.",
+        "Urgencia urinaria.",
+        "Retención urinaria.",
+        "Incontinencia refleja."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q179",
+      "type": "single_choice",
+      "question": "Se define la intervención de enfermería como:",
+      "options": [
+        "Cualquier tratamiento, basado en el conocimiento y juicio clínico, que realiza un profesional de enfermería para favorecer los resultados esperados del paciente.",
+        "Es un estado, conducta o percepción variable de un paciente o cuidador familiar sensible a los resultados de enfermería y conceptualizado a niveles de abstracción.",
+        "Juicio clínico sobre la respuesta de un individuo, familia o comunidad, frente a procesos vitales/ problemas de salud reales o potenciales.",
+        "Diagnóstico preclínico sobre la respuesta de un individuo, familia o comunidad frente a procesos vitales/ problemas de salud reales o potenciales."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q180",
+      "type": "single_choice",
+      "question": "En pacientes con nutrición parenteral pueden aparecer complicaciones:",
+      "options": [
+        "En las primeras 48 horas suelen ser mecánicas y/o infecciosas.",
+        "Las complicaciones infecciosas suelen aparecer antes de las 72 horas.",
+        "En las primeras 48 horas suelen ser mecánicas y/o metabólicas.",
+        "Transcurridos 3 meses, las únicas complicaciones que aparecen son mecánicas."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q181",
+      "type": "single_choice",
+      "question": "La estructura organizativa funcional formada por profesionales sanitarios y no sanitarios, que tiene responsabilidad en la prestación sanitaria de forma integral, compartida y continuada en la zona básica de salud, recibe el nombre de:",
+      "options": [
+        "Servicio autonómico de Salud.",
+        "Sistema Nacional de Salud.",
+        "Centro de Salud.",
+        "Equipo de Atención Primaria."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q182",
+      "type": "single_choice",
+      "question": "Según la taxonomía NANDA ¿Cuál de estos diagnósticos identificamos en un adolescente que es incapaz de mantener una percepción completa e integrada del “Yo”?",
+      "options": [
+        "Afrontamiento ineficaz de la salud.",
+        "Trastorno de la identidad de una persona.",
+        "Baja autoestima situacional.",
+        "Baja autoestima crónica."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q183",
+      "type": "single_choice",
+      "question": "Según la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios, podrán indicar, usar y autorizar la dispensación de todos aquellos medicamentos no sujetos a prescripción médica y los productos sanitarios, de forma autónoma, mediante la correspondiente orden de dispensación los profesionales:",
+      "options": [
+        "Enfermeros y Fisioterapeutas.",
+        "Veterinarios y podólogos.",
+        "Cirujanos Plásticos y odontólogos.",
+        "Profesionales relacionados con la Estética. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q184",
+      "type": "single_choice",
+      "question": "Respecto al burnout en el entorno sanitario, señale la frase verdadera:",
+      "options": [
+        "El burnout es un trastorno físico.",
+        "La fatiga sucede por la alta capacidad para desarrollar el potencial.",
+        "La construcción de liderazgos potentes ayuda a mitigar el efecto.",
+        "Los síntomas son solo psicológicos. PREGUNTAS DE RESERVA"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q185",
+      "type": "single_choice",
+      "question": "Dentro de la estrategia “Adecuación de los recursos humanos del SNS a las necesidades de los servicios sanitarios” incluida en el Plan de Calidad del Sistema Nacional de Salud (SNS) se encuentra el proyecto:",
+      "options": [
+        "Realizar un estudio sobre necesidades de profesionales de cuidados de Enfermería.",
+        "Elaborar un sistema de información común sobre los recursos humanos en el Sistema Nacional de Salud.",
+        "Mantener actualizado el estudio sobre las proyecciones de necesidades futuras de especialistas médicos.",
+        "Estimular e impulsar las estancias de intercambio de residentes en centros públicos dependientes de los servicios de Salud."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q186",
+      "type": "single_choice",
+      "question": "Cuál de los objetivos enumerados, NO se correspondería con el propósito de una investigación que se ha de centrar en la realización de un estudio descriptivo:",
+      "options": [
+        "Calcular la prevalencia de la hipercolesterolemia en una comunidad.",
+        "Determinar la incidencia de infarto agudo de miocardio en varones.",
+        "Obtener datos reales sobre los motivos de consulta en los servicios de urgencia.",
+        "Estimar el efecto de un taller de información nutricional en personas con obesidad."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q187",
+      "type": "single_choice",
+      "question": "El 1 de enero de 2016, entró en vigor en España la CIE-10-ES como clasificación de referencia para la codificación clínica y registro de la morbilidad, que integra dos clasificaciones: Indique la respuesta correcta.",
+      "options": [
+        "La Modificación Clínica de la Clasificación Internacional de Enfermedades 10ª versión, para codificar diagnósticos, y el Sistema de Clasificación de Procedimientos.",
+        "El registro de los datos clínicos y el conocimiento de la morbilidad atendida.",
+        "El conocimiento de la morbilidad atendida y el proceso de atención médica.",
+        "El registro de los datos clínicos y el proceso de atención médica."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q188",
+      "type": "single_choice",
+      "question": "Según la Teoría del Desarrollo de Erikson que va desde el nacimiento hasta la madurez ¿cuantos periodos de dicha teoría tienen lugar en la infancia y adolescencia?",
+      "options": [
+        "3 en la infancia y 1 en la adolescencia.",
+        "3 en la infancia y 2 en la adolescencia.",
+        "4 en la infancia y 1 en la adolescencia.",
+        "4 en la infancia y 2 en la adolescencia."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q189",
+      "type": "single_choice",
+      "question": "Existen varios tipos de tarjetas de triaje a la hora de un accidente. Las más conocidas son las de colores que siguen un criterio cromático establecido internacionalmente. ¿A qué paciente de los siguientes le correspondería la tarjeta amarilla?",
+      "options": [
+        "Paciente con lesión penetrante en el tórax.",
+        "Paciente en coma.",
+        "Paciente con múltiples fracturas.",
+        "Paciente con destrucción multiorgánica. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q190",
+      "type": "single_choice",
+      "question": "Sobre las siguientes características en relación a los tipos de muestreo utilizados en investigación. Indique cuál de las siguientes observaciones es FALSA sobre el muestreo estratificado:",
+      "options": [
+        "Divide a la población en grupos homogéneos y se intenta que toda la población esté representada.",
+        "Divide las unidades en estratos y se realiza un muestreo simple en cada uno de ellos de forma proporcional o no proporcional.",
+        "Divide las unidades en estratos y se realiza un muestreo simple en cada uno de ellos de forma exclusivamente proporcional.",
+        "Es un tipo de muestreo frecuentemente utilizado en muestras sanitarias."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q191",
+      "type": "single_choice",
+      "question": "Respecto a la enterocolitis necrotizante en el neonato, señale la respuesta INCORRECTA:",
+      "options": [
+        "La baja edad gestacional y el peso conllevan mayor riesgo.",
+        "Los recién nacidos de madres cocainómanas tienen un mayor riesgo.",
+        "Mayor riesgo en recién nacidos que sufren episodios de asfixia y estrés cardiopulmonar.",
+        "No hay una diferencia significativa según el sexo del recién nacido."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q192",
+      "type": "single_choice",
+      "question": "En la entrevista a un paciente durante la etapa de valoración, las preguntas abiertas presentan una desventaja, indíquela.",
+      "options": [
+        "Puede revelar la afectividad del entrevistado respecto a un aspecto.",
+        "Las respuestas son difíciles de registrar y hacerlo exige habilidad.",
+        "Dejan hablar al entrevistado.",
+        "Se concede demasiada importancia a las opiniones del entrevistado."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q193",
+      "type": "single_choice",
+      "question": "Un paciente que va a ser intervenido quirúrgicamente acude a la consulta preanestésica y le revisan la garganta con el laringoscopio con el fin de analizar cuál puede ser el nivel de dificultad de la intubación según la escala de Cormack- Lehane y presenta un Cormack IV, lo más probable es que su intubación sea:",
+      "options": [
+        "Posible solo con técnicas especiales.",
+        "Intubación muy fácil.",
+        "Intubación medianamente compleja.",
+        "Intubación imposible."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q194",
+      "type": "single_choice",
+      "question": "De acuerdo con el Plan de Ordenación de Recursos Humanos del Instituto Nacional de Gestión Sanitaria, la movilidad por razón de salud:",
+      "options": [
+        "No es causa de movilidad.",
+        "Se prevé previa intervención del Ministerio de Sanidad.",
+        "Debe realizarse conjuntamente con los procesos de movilidad.",
+        "Se concede mediante resolución de la Dirección del INGES",
+        "INJ - 16 SUPUESTO PRÁCTICO Paciente mujer de 77 años acude a urgencias hospitalarias derivada por médico de atención primaria por empeoramiento de su sintomatología, que cursa con disnea intensa y nerviosismo brusco con sofocación, tratada en centro de salud con metilprednisolona intramuscular y salbutamol en inhalación. La paciente refiere que en las últimas semanas ha disminuido su actividad física debido a que presenta mayor fatiga, los tiempos de reposo son más extensos y la disnea ha ido en aumento, lo cual empieza a reflejarse en su vida diaria. Los familiares que la acompañan relatan haber notado un empeoramiento del estado general de la paciente, y señalan en concreto la edematización de las piernas; esta refiere haber notado que orina menos a pesar de que la cantidad de líquidos que ingiere es la misma. Tras realizar las pruebas precisas se pasa a la paciente a sala de observación y, una vez valorada se decide su ingreso en planta para completar estudio. Datos personales: Alergias: sin alergias medicamentosas conocidas hasta la fecha. Datos clínicos: HTA, dislipemia, EPOC, insuficiencia venosa crónica, síndrome depresivo, apendicectomía (2001), déficit de vitamina D, hipotiroidismo. Medicación actual: Omeprazol 20mg 1-0-0, Candesartán 16mg 1-0-0, Dipropionato de Beclometasona/Fumarato de formoterol dihidrato 100/6mcg inh 1-0-0, Simvastatina 20mg 0-0-1, Escitalopram 20mg 0-1-0, Salbutamol 100mcg inhalador cuando precise, Lorazepam 1mg 0-0-1. Levotiroxina 75 mcg 1-0-0. Optovite 1000 mcg IM/mensual Exploración general: Constantes: Tensión arterial: 170/70mmHg, Frecuencia cardiaca: 91lpm, Saturación de oxígeno: 94% basal, Temperatura: 36.3º",
+        "Paciente consciente y orientada. Bien hidratada y perfundida. Eupneica en reposo y en sedestación, al pasar a la camilla y adoptar posición en decúbito a 45º presenta taquipnea. Auscultación cardiaca: rítmica, sin soplos audibles. Auscultación pulmonar: hipoventilación difusa sin auscultarse ruidos patológicos. Auscultación abdominal: Obesidad grado I, abdomen blando, depresible, no doloroso. No se palpan masas ni megalias. Peristaltismo presente. EEII: Edematización leve en ambas piernas, pulsos periféricos palpables. Pruebas complementarias: ECG: Ritmo sinusal a 75 lpm, T negativas en V1-V3, QRS estrecho. Analitica: pH: 7,34. pO2: 62mmHg, pCO2: 46 mmHg. Bicarbonato: 27 mEq/L. PCR: 0,66. DímeroD: 765 (levemente aumentado). Creatinina: 1,96. Urea: 80. Leucos: 7,20. Hb: 12,6. Plaquetas: 280.000. INR: 0,84."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q195",
+      "type": "single_choice",
+      "question": "Debido a su hipotiroidismo que hallazgo cutáneo nos podemos encontrar:",
+      "options": [
+        "Piel fría y húmeda.",
+        "Piel áspera y seca.",
+        "Aumento del crecimiento del vello.",
+        "Piel suave y enrojecida."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q196",
+      "type": "single_choice",
+      "question": "Según los criterios de la OMS y de la Sociedad Española para el Estudio de la Obesidad (SEEDO) la obesidad de grado I se corresponde con un índice de masa corporal de:",
+      "options": [
+        "25,0 - 29,9.",
+        "30,0 - 34,9.",
+        "35,0 - 39,9.",
+        "40,0 - 49,9."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q197",
+      "type": "single_choice",
+      "question": "Cuál de las siguientes recomendaciones dietéticas le indicaría para mejorar el control de su dislipemia:",
+      "options": [
+        "Reducir el consumo de ácidos grasos poliinsaturados omega 3.",
+        "Reducir el consumo de ácidos grasos monoinsaturados.",
+        "Reducir el consumo de ácidos grasos poliinsaturados omega 6.",
+        "Reducir el consumo de ácidos grasos saturados. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q198",
+      "type": "single_choice",
+      "question": "Atendiendo a los valores analíticos obtenidos en sangre arterial: pH: 7,34. pO2: 62mmHg, pCO2: 46 mmHg. Bicarbonato: 27 mEq/L la paciente presenta:",
+      "options": [
+        "Alcalosis Respiratoria.",
+        "Acidosis Respiratoria.",
+        "Alcalosis Metabólica.",
+        "Acidosis Metabólica."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q199",
+      "type": "single_choice",
+      "question": "Cuando se realiza un electrocardiograma, señale la posición anatómica donde se sitúa la derivación precordial V4:",
+      "options": [
+        "5º espacio intercostal izquierdo, línea medio clavicular.",
+        "5º espacio intercostal derecho, línea medio clavicular.",
+        "5º espacio intercostal izquierdo, línea anterior axilar.",
+        "5º espacio intercostal izquierdo, línea axilar media."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q200",
+      "type": "single_choice",
+      "question": "Señale cuál de las siguientes escalas NO se utiliza para valorar el riesgo de ulceras por presión:",
+      "options": [
+        "Escala de Norton.",
+        "Escala de Oxford.",
+        "Escala Nova 5.",
+        "Escala Emina."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q201",
+      "type": "single_choice",
+      "question": "El test de Allen se realiza para:",
+      "options": [
+        "Comprobar si existe una buena circulación venosa periférica.",
+        "Comprobar si hay circulación colateral antes de la punción de la arteria radial.",
+        "Comprobar si hay una buena circulación arterial en los miembros inferiores.",
+        "Comprobar si hay una buena circulación venosa en los miembros inferiores."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q202",
+      "type": "single_choice",
+      "question": "Señala el factor de riesgo que NO está relacionado con el diagnóstico enfermero 00155 “riesgo de caídas”:",
+      "options": [
+        "Antecedentes de caídas.",
+        "Edad igual o superior a 65 años.",
+        "Obesidad.",
+        "Medicamentos antihipertensivos."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q203",
+      "type": "single_choice",
+      "question": "Al realizar una valoración del riesgo de ulceras por presión aplicando la escala de Braden se obtiene una puntuación de 16 puntos ¿cuál es la interpretación?",
+      "options": [
+        "Riesgo muy alto.",
+        "Riesgo alto.",
+        "Riesgo medio.",
+        "Riesgo bajo."
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q204",
+      "type": "single_choice",
+      "question": "Cuál de las siguientes NO se corresponde con una intervención (NI",
+      "options": [
+        "con el diagnóstico enfermero 00001: “Alteración de la nutrición por exceso”:",
+        "Monitorización de electrolitos.",
+        "Modificación de la conducta.",
+        "Ayuda para disminuir peso.",
+        "Gestión de la nutrición. PREGUNTA DE RESERVA"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    },
+    {
+      "id": "q205",
+      "type": "single_choice",
+      "question": "El déficit de vitamina B12 es una de las características de:",
+      "options": [
+        "Anemia ferropénica.",
+        "Anemia megaloblástica.",
+        "Anemia hemolítica.",
+        "Anemia sideroblástica. INJ -"
+      ],
+      "correct_answer": null,
+      "explanation": "Sin plantilla de corrección en el documento. Respuesta no verificada."
+    }
+  ]
+}
