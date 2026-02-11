@@ -5,21 +5,94 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>EGOA</title>
   <style>
-    body { font-family: system-ui, Arial, sans-serif; margin: 24px; max-width: 900px; }
-    .topbar { display:flex; gap:12px; flex-wrap:wrap; align-items:center; justify-content:space-between; }
-    .card { border: 1px solid #ddd; border-radius: 12px; padding: 16px; margin: 16px 0; }
-    .muted { color: #666; }
-    .opt { display:block; padding: 10px 12px; border: 1px solid #ddd; border-radius: 10px; margin: 10px 0; cursor: pointer; }
-    .opt:hover { background: #f7f7f7; }
-    button { padding: 10px 14px; border-radius: 10px; border: 1px solid #ccc; background: #fff; cursor: pointer; }
-    button:disabled { opacity: .5; cursor: not-allowed; }
-    .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
-    .ok { color: #0a7; font-weight: 700; }
-    .bad { color: #c00; font-weight: 700; }
-    .explain { margin-top: 10px; padding: 10px 12px; border-left: 4px solid #ddd; background: #fafafa; border-radius: 8px; }
-    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
-    .small { font-size: 0.95rem; }
-  </style>
+  body {
+    font-family: system-ui, Arial, sans-serif;
+    margin: 24px;
+    max-width: 900px;
+    background: #121212;
+    color: #eaeaea;
+  }
+
+  .topbar {
+    display:flex;
+    gap:12px;
+    flex-wrap:wrap;
+    align-items:center;
+    justify-content:space-between;
+  }
+
+  .card {
+    border: 1px solid #2a2a2a;
+    border-radius: 12px;
+    padding: 16px;
+    margin: 16px 0;
+    background: #1e1e1e;
+  }
+
+  .muted { color: #aaaaaa; }
+
+  .opt {
+    display:block;
+    padding: 10px 12px;
+    border: 1px solid #333;
+    border-radius: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+    background: #1a1a1a;
+    transition: background 0.2s, border 0.2s;
+  }
+
+  .opt:hover {
+    background: #2a2a2a;
+    border-color: #444;
+  }
+
+  button {
+    padding: 10px 14px;
+    border-radius: 10px;
+    border: 1px solid #333;
+    background: #2a2a2a;
+    color: #eaeaea;
+    cursor: pointer;
+    transition: background 0.2s, border 0.2s;
+  }
+
+  button:hover {
+    background: #333;
+    border-color: #555;
+  }
+
+  button:disabled {
+    opacity: .4;
+    cursor: not-allowed;
+  }
+
+  .row {
+    display:flex;
+    gap:10px;
+    flex-wrap:wrap;
+    align-items:center;
+  }
+
+  .ok { color: #4caf50; font-weight: 700; }
+  .bad { color: #f44336; font-weight: 700; }
+
+  .explain {
+    margin-top: 10px;
+    padding: 10px 12px;
+    border-left: 4px solid #444;
+    background: #181818;
+    border-radius: 8px;
+  }
+
+  .mono {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 
+                 "Liberation Mono", "Courier New", monospace;
+  }
+
+  .small { font-size: 0.95rem; }
+</style>
+
 </head>
 <body>
 
