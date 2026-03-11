@@ -3,7 +3,7 @@ const DATA_FILE = "egoa.json";
 
 let settings = {
   show_progress: true,
-  shuffle_options: true,
+  shuffle_options: false,
   show_explanation: true,
   shuffle_questions: true
 };
