@@ -174,49 +174,7 @@
     ],
     "correct_answer": "ANULADA",
     "explanation": "Esta pregunta de reserva fue anulada por el tribunal calificador según la plantilla definitiva [2, 31, 32]."
-  }
-]
-He extraído una selección representativa de las preguntas del examen de 2024 (enfermería) siguiendo el formato JSON solicitado y validando las respuestas con las plantillas oficiales de las fuentes. Debido a la gran cantidad de preguntas (más de 500 en total entre todos los años), he comenzado por este bloque.
-Nota: He incluido ejemplos de preguntas anuladas para mantener la fidelidad a la plantilla oficial
-. Si deseas que continúe con el resto de las preguntas de 2024 o pase a los años anteriores (2023, 2022, etc.), por favor dímelo.
-¿Continuamos con las preguntas restantes de 2024?
-Pasemos a extraer las preguntas del examen de 2023
-¿Cuáles son las preguntas del supuesto práctico del buque?
-en las fuentes tienes preguntas y respuestas de varios años. fíjate que si el examen se llama por ejemplo "2.E1 23.pdf" las repuestas de ese examen se llaman "2. Resp E2 23.pdf". "1.E1 24.pdf" las prespuestas son "1.RespE1.24.pdf".
-extrae Todas y cada una de las preguntas de los pdf y pon debajo "Solución: " y la repsuesta correspondiente según su plantilla
-dame esto en un formato json de este tipo:
-{
-"id": "cmd_l1",
-"type": "single_choice",
-"question": "En Linux, ¿qué comando permite listar todos los archivos, incluidos aquellos que están ocultos?",
-"options": [
-"ls -l",
-"ls -a",
-"ls -R",
-"ls -h"
-],
-"correct_answer": "ls -a",
-"explanation": "En los sistemas tipo UNIX, los archivos ocultos comienzan con un punto; el parámetro '-a' (all) instruye al comando ls para incluirlos en el listado [1-3]."
-},
-{
-"id": "cmd_ps1",
-"type": "single_choice",
-"question": "¿Cuál es la estructura estándar que siguen la mayoría de los cmdlets en PowerShell?",
-"options": [
-"Nombre y verbo separados por un punto.",
-"Verbo y nombre en inglés, separados por un guion.",
-"Siglas cortas de un máximo de tres caracteres.",
-"Nombres de ejecutables con extensión .exe."
-],
-"correct_answer": "Verbo y nombre en inglés, separados por un guion.",
-"explanation": "Los cmdlets de PowerShell utilizan el formato 'Verbo-Sustantivo' (ej. Get-Service) para ser autodescriptivos y consistentes [4-6]."
-},
-
-
-hazlo con todas y cada una de las preguntas de los exámenes. cada examen tiene 85 rpeguntas, empeiza por la rpegunta 1 y sigue hasta la 85, no te saltes ninguna. pon las preguntas compeltas y las respuestas compeltas. pon la solución abajo en el formato json y la explciación
-empeiza por el examen 1
-
-[
+  },
   {
     "id": "egoa24_q1",
     "type": "single_choice",
